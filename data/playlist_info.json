@@ -1,0 +1,4746 @@
+{
+    "nptelhrd": {
+        "Fundamentals of electronic materials and devices": {
+            "avg_views": 47693.666666666664,
+            "avg_likes": 305.0,
+            "avg_dislikes": 13.666666666666666,
+            "avg_comments": 13.666666666666666
+        },
+        "Geosynthetics and Reinforced Soil Structures": {
+            "avg_views": 7043.5,
+            "avg_likes": 39.411764705882355,
+            "avg_dislikes": 1.088235294117647,
+            "avg_comments": 1.6764705882352942
+        },
+        "Conquer through NPTEL": {
+            "avg_views": 2683.52,
+            "avg_likes": 49.2,
+            "avg_dislikes": 3.04,
+            "avg_comments": 5.5
+        },
+        "Power System Dynamics and Control": {
+            "avg_views": 6758.422222222222,
+            "avg_likes": 34.6,
+            "avg_dislikes": 1.6222222222222222,
+            "avg_comments": 2.1555555555555554
+        },
+        "Astrophysics & Cosmology": {
+            "avg_views": 0.0,
+            "avg_likes": 0.0,
+            "avg_dislikes": 0.0,
+            "avg_comments": 0.0
+        },
+        "Mathematics I": {
+            "avg_views": 58697.625,
+            "avg_likes": 125.09375,
+            "avg_dislikes": 10.8125,
+            "avg_comments": 15.25
+        },
+        "Engineering Fracture Mechanics": {
+            "avg_views": 14039.365853658537,
+            "avg_likes": 49.707317073170735,
+            "avg_dislikes": 2.2195121951219514,
+            "avg_comments": 3.1219512195121952
+        },
+        "Artificial Intelligence Search Methods For Problem Solving": {
+            "avg_views": 29143.833333333332,
+            "avg_likes": 124.1875,
+            "avg_dislikes": 7.75,
+            "avg_comments": 9.041666666666666
+        },
+        "Fundamentals of X-ray diffraction and Transmission electron microscopy": {
+            "avg_views": 6577.222222222223,
+            "avg_likes": 33.01851851851852,
+            "avg_dislikes": 3.6666666666666665,
+            "avg_comments": 2.425925925925926
+        },
+        "Chemistry and Biochemistry - Bio-physical Chemistry": {
+            "avg_views": 2017.857142857143,
+            "avg_likes": 15.0,
+            "avg_dislikes": 0.8333333333333334,
+            "avg_comments": 0.7619047619047619
+        },
+        "Chemical Engineering - Interfacial Engineering": {
+            "avg_views": 1545.972972972973,
+            "avg_likes": 10.0,
+            "avg_dislikes": 0.7567567567567568,
+            "avg_comments": 0.5135135135135135
+        },
+        "Electrical Engineering- Engineering Electromagnetics": {
+            "avg_views": 1304.1951219512196,
+            "avg_likes": 11.75609756097561,
+            "avg_dislikes": 0.4878048780487805,
+            "avg_comments": 0.9512195121951219
+        },
+        "Semiconductor Device Modeling": {
+            "avg_views": 5011.090909090909,
+            "avg_likes": 33.45454545454545,
+            "avg_dislikes": 1.3636363636363635,
+            "avg_comments": 2.0
+        },
+        "NPTEL : Industry Workshops": {
+            "avg_views": 9363.0,
+            "avg_likes": 98.5,
+            "avg_dislikes": 7.0,
+            "avg_comments": 4.5
+        },
+        "NPTEL : Workshops": {
+            "avg_views": 9159.333333333334,
+            "avg_likes": 85.33333333333333,
+            "avg_dislikes": 5.5,
+            "avg_comments": 6.5
+        },
+        "Electrical - Introduction to Electronic Circuits": {
+            "avg_views": 1479.15,
+            "avg_likes": 14.075,
+            "avg_dislikes": 0.425,
+            "avg_comments": 0.725
+        },
+        "Electrical - Digital communication": {
+            "avg_views": 1813.0,
+            "avg_likes": 9.605263157894736,
+            "avg_dislikes": 0.13157894736842105,
+            "avg_comments": 0.8421052631578947
+        },
+        "Electrical - Analog Electronic Circuits": {
+            "avg_views": 2202.54,
+            "avg_likes": 13.0,
+            "avg_dislikes": 0.44,
+            "avg_comments": 0.82
+        },
+        "Civil - Water Management": {
+            "avg_views": 1357.95,
+            "avg_likes": 5.75,
+            "avg_dislikes": 0.575,
+            "avg_comments": 0.45
+        },
+        "Metrology - Mechanical Engineering - Prof. Sadashivappa": {
+            "avg_views": 15667.39534883721,
+            "avg_likes": 101.4186046511628,
+            "avg_dislikes": 5.953488372093023,
+            "avg_comments": 3.627906976744186
+        },
+        "Mechanical - Metal Casting": {
+            "avg_views": 14635.225,
+            "avg_likes": 151.925,
+            "avg_dislikes": 6.975,
+            "avg_comments": 8.675
+        },
+        "NPTEL - NOC Feedback": {
+            "avg_views": 9216.357142857143,
+            "avg_likes": 49.48571428571429,
+            "avg_dislikes": 6.114285714285714,
+            "avg_comments": 5.542857142857143
+        },
+        "Civil Engineering - Finite Element method for vibration and Stability analyses": {
+            "avg_views": 1519.65,
+            "avg_likes": 7.575,
+            "avg_dislikes": 0.325,
+            "avg_comments": 0.325
+        },
+        "Electronics - Nanoelectronics: Devices and Materials": {
+            "avg_views": 2119.682926829268,
+            "avg_likes": 11.317073170731707,
+            "avg_dislikes": 0.8048780487804879,
+            "avg_comments": 1.5121951219512195
+        },
+        "Mathematics - Basic Algebraic Geometry : Varieties, Morphisms, Local Rings, Function Fields and Nonsingularity": {
+            "avg_views": 3779.4523809523807,
+            "avg_likes": 32.976190476190474,
+            "avg_dislikes": 1.0952380952380953,
+            "avg_comments": 3.3095238095238093
+        },
+        "Physics - Nonequilibrium Statistical Mechanics": {
+            "avg_views": 5394.583333333333,
+            "avg_likes": 41.638888888888886,
+            "avg_dislikes": 0.7222222222222222,
+            "avg_comments": 2.8333333333333335
+        },
+        "Aerospace - Combustion": {
+            "avg_views": 2105.0588235294117,
+            "avg_likes": 12.843137254901961,
+            "avg_dislikes": 0.5490196078431373,
+            "avg_comments": 0.6666666666666666
+        },
+        "Chemical Reaction Engineering 2 (Heterogeneous Reactors)": {
+            "avg_views": 3860.046511627907,
+            "avg_likes": 24.093023255813954,
+            "avg_dislikes": 0.627906976744186,
+            "avg_comments": 1.2325581395348837
+        },
+        "Chemical Reaction Engineering 1 (Homogeneous Reactors)": {
+            "avg_views": 11540.283333333333,
+            "avg_likes": 73.25,
+            "avg_dislikes": 2.4,
+            "avg_comments": 4.933333333333334
+        },
+        "ICT Basics": {
+            "avg_views": 4676.044444444445,
+            "avg_likes": 24.488888888888887,
+            "avg_dislikes": 1.3333333333333333,
+            "avg_comments": 0.7555555555555555
+        },
+        "Agriculture-Integrated Pest Management (IPM)": {
+            "avg_views": 2501.021276595745,
+            "avg_likes": 31.74468085106383,
+            "avg_dislikes": 1.1914893617021276,
+            "avg_comments": 1.2340425531914894
+        },
+        "Agriculture-Weather Forecast in Agriculture and Agro-advisory (WF)": {
+            "avg_views": 416.1388888888889,
+            "avg_likes": 3.888888888888889,
+            "avg_dislikes": 0.08333333333333333,
+            "avg_comments": 0.16666666666666666
+        },
+        "Agriculture-Nutrition, Therapeutics and Health (NM)": {
+            "avg_views": 4791.265306122449,
+            "avg_likes": 62.673469387755105,
+            "avg_dislikes": 4.816326530612245,
+            "avg_comments": 3.5714285714285716
+        },
+        "Agriculture - GIS in Ag-Essentials and Applications (GIS)": {
+            "avg_views": 1432.0434782608695,
+            "avg_likes": 10.152173913043478,
+            "avg_dislikes": 0.717391304347826,
+            "avg_comments": 0.4782608695652174
+        },
+        "Agriculture - Crop Production Fundamentals (BCPP)": {
+            "avg_views": 1306.6538461538462,
+            "avg_likes": 8.884615384615385,
+            "avg_dislikes": 0.6538461538461539,
+            "avg_comments": 0.7307692307692307
+        },
+        "Metallurgy - Materials Characterization": {
+            "avg_views": 8259.767441860466,
+            "avg_likes": 41.46511627906977,
+            "avg_dislikes": 4.604651162790698,
+            "avg_comments": 3.046511627906977
+        },
+        "Mathematics - Advanced Complex Analysis - Part 2": {
+            "avg_views": 2338.4418604651164,
+            "avg_likes": 19.72093023255814,
+            "avg_dislikes": 1.0465116279069768,
+            "avg_comments": 0.9767441860465116
+        },
+        "Electronics - Advanced VLSI Design": {
+            "avg_views": 5544.047619047619,
+            "avg_likes": 27.30952380952381,
+            "avg_dislikes": 1.5,
+            "avg_comments": 1.3333333333333333
+        },
+        "Humanities and Social Sciences - Ethics": {
+            "avg_views": 1973.1025641025642,
+            "avg_likes": 19.794871794871796,
+            "avg_dislikes": 0.9743589743589743,
+            "avg_comments": 1.5384615384615385
+        },
+        "Mathematics - Dynamic Data Assimilation": {
+            "avg_views": 1195.35,
+            "avg_likes": 8.75,
+            "avg_dislikes": 0.275,
+            "avg_comments": 0.35
+        },
+        "Electrical - Fabrication of Silicon VLSI Circuits using the MOS technology": {
+            "avg_views": 1170.642857142857,
+            "avg_likes": 6.642857142857143,
+            "avg_dislikes": 0.17857142857142858,
+            "avg_comments": 0.21428571428571427
+        },
+        "Metallurgy - Advanced Characterization Techniques": {
+            "avg_views": 1565.6363636363637,
+            "avg_likes": 4.96969696969697,
+            "avg_dislikes": 0.06060606060606061,
+            "avg_comments": 0.18181818181818182
+        },
+        "Computer Science - Virtual Reality": {
+            "avg_views": 3925.521126760563,
+            "avg_likes": 30.070422535211268,
+            "avg_dislikes": 0.9436619718309859,
+            "avg_comments": 1.7183098591549295
+        },
+        "Biotechnology - Biomathematics": {
+            "avg_views": 1435.4102564102564,
+            "avg_likes": 12.102564102564102,
+            "avg_dislikes": 0.6153846153846154,
+            "avg_comments": 0.8205128205128205
+        },
+        "Civil - Advanced Geotechnical Engineering": {
+            "avg_views": 4941.25,
+            "avg_likes": 22.233333333333334,
+            "avg_dislikes": 1.35,
+            "avg_comments": 0.9
+        },
+        "Chemical - Chemical Engineering Principles of CVD Processes": {
+            "avg_views": 1792.962962962963,
+            "avg_likes": 13.37037037037037,
+            "avg_dislikes": 0.48148148148148145,
+            "avg_comments": 0.7037037037037037
+        },
+        "Electronics -  CMOS Analog VLSI Design": {
+            "avg_views": 7246.827586206897,
+            "avg_likes": 21.06896551724138,
+            "avg_dislikes": 1.103448275862069,
+            "avg_comments": 1.3103448275862069
+        },
+        "Electronics -  Analog Circuits": {
+            "avg_views": 11911.52,
+            "avg_likes": 37.64,
+            "avg_dislikes": 1.6,
+            "avg_comments": 2.72
+        },
+        "Physics - Physical Applications of Stochastic Processes": {
+            "avg_views": 10561.379310344828,
+            "avg_likes": 71.75862068965517,
+            "avg_dislikes": 1.7241379310344827,
+            "avg_comments": 3.310344827586207
+        },
+        "Electronics - Analog Circuits and Systems 1": {
+            "avg_views": 2936.3333333333335,
+            "avg_likes": 13.41025641025641,
+            "avg_dislikes": 0.5384615384615384,
+            "avg_comments": 0.7435897435897436
+        },
+        "Mechanical - Fundamentals of Industrial Oil Hydraulics and Pneumatics": {
+            "avg_views": 4736.325581395349,
+            "avg_likes": 22.162790697674417,
+            "avg_dislikes": 1.5348837209302326,
+            "avg_comments": 0.813953488372093
+        },
+        "Mathematics - Statistical Methods for Scientists and Engineers": {
+            "avg_views": 2247.175,
+            "avg_likes": 14.125,
+            "avg_dislikes": 0.275,
+            "avg_comments": 0.625
+        },
+        "Aerospace - Jet Aircraft Propulsion": {
+            "avg_views": 5998.7441860465115,
+            "avg_likes": 45.7906976744186,
+            "avg_dislikes": 1.8837209302325582,
+            "avg_comments": 1.6744186046511629
+        },
+        "Aerospace - Introduction to Aerospace Propulsion": {
+            "avg_views": 6412.85,
+            "avg_likes": 49.85,
+            "avg_dislikes": 2.025,
+            "avg_comments": 2.425
+        },
+        "Electronics - Adv. Digital Signal Processing - Multirate and wavelets": {
+            "avg_views": 3267.54,
+            "avg_likes": 20.46,
+            "avg_dislikes": 0.58,
+            "avg_comments": 1.78
+        },
+        "Chemistry -  Introduction to Quantum Chemistry": {
+            "avg_views": 6551.3125,
+            "avg_likes": 55.0625,
+            "avg_dislikes": 3.5,
+            "avg_comments": 2.375
+        },
+        "Mathematics - Advanced Complex Analysis - Part 1": {
+            "avg_views": 4832.2558139534885,
+            "avg_likes": 33.604651162790695,
+            "avg_dislikes": 1.697674418604651,
+            "avg_comments": 2.3488372093023258
+        },
+        "Physics - Relativistic Quantum Mechanics": {
+            "avg_views": 3707.777777777778,
+            "avg_likes": 26.6,
+            "avg_dislikes": 1.3111111111111111,
+            "avg_comments": 1.0888888888888888
+        },
+        "Electronics - Embedded software testing": {
+            "avg_views": 964.9090909090909,
+            "avg_likes": 1.7954545454545454,
+            "avg_dislikes": 0.29545454545454547,
+            "avg_comments": 0.29545454545454547
+        },
+        "Electrical - Illumination Engineering": {
+            "avg_views": 10836.9,
+            "avg_likes": 29.05,
+            "avg_dislikes": 3.35,
+            "avg_comments": 1.5
+        },
+        "Civil - Ground Improvement Techniques": {
+            "avg_views": 5642.9,
+            "avg_likes": 29.05,
+            "avg_dislikes": 2.35,
+            "avg_comments": 0.875
+        },
+        "computer - System Analysis and Design": {
+            "avg_views": 7823.9,
+            "avg_likes": 7.55,
+            "avg_dislikes": 0.75,
+            "avg_comments": 1.35
+        },
+        "Computer - Design and Analysis of Algorithms": {
+            "avg_views": 65117.470588235294,
+            "avg_likes": 168.14705882352942,
+            "avg_dislikes": 7.705882352941177,
+            "avg_comments": 19.88235294117647
+        },
+        "Computer - Internet Technology": {
+            "avg_views": 89400.325,
+            "avg_likes": 194.8,
+            "avg_dislikes": 10.55,
+            "avg_comments": 20.25
+        },
+        "Chemical - Statistics for Experimentalists": {
+            "avg_views": 2802.3454545454547,
+            "avg_likes": 12.290909090909091,
+            "avg_dislikes": 0.8909090909090909,
+            "avg_comments": 0.6727272727272727
+        },
+        "Physics - NUCLEAR REACTORS AND SAFETY- AN INTRODUCTION": {
+            "avg_views": 1426.3,
+            "avg_likes": 10.166666666666666,
+            "avg_dislikes": 0.6,
+            "avg_comments": 0.5666666666666667
+        },
+        "Mechanical - Micro fluidics": {
+            "avg_views": 3298.2708333333335,
+            "avg_likes": 20.958333333333332,
+            "avg_dislikes": 0.7708333333333334,
+            "avg_comments": 1.1875
+        },
+        "Electronics - Linux Programming & Scripting": {
+            "avg_views": 8435.60465116279,
+            "avg_likes": 23.674418604651162,
+            "avg_dislikes": 1.627906976744186,
+            "avg_comments": 1.558139534883721
+        },
+        "Electronics - Advanced Logic Synthesis": {
+            "avg_views": 4921.558823529412,
+            "avg_likes": 26.705882352941178,
+            "avg_dislikes": 2.323529411764706,
+            "avg_comments": 1.6470588235294117
+        },
+        "Physics - Special Theory of Relativity": {
+            "avg_views": 15678.833333333334,
+            "avg_likes": 142.125,
+            "avg_dislikes": 4.375,
+            "avg_comments": 13.375
+        },
+        "Electronics - ARM Based Development": {
+            "avg_views": 6749.351351351352,
+            "avg_likes": 29.10810810810811,
+            "avg_dislikes": 4.405405405405405,
+            "avg_comments": 2.4324324324324325
+        },
+        "Humanities - Understanding Creativity and Creative Writing": {
+            "avg_views": 743.4878048780488,
+            "avg_likes": 6.219512195121951,
+            "avg_dislikes": 0.3902439024390244,
+            "avg_comments": 0.6341463414634146
+        },
+        "Civil - Ground Water Hydrology": {
+            "avg_views": 10168.85,
+            "avg_likes": 56.5,
+            "avg_dislikes": 4.55,
+            "avg_comments": 4.025
+        },
+        "Electrical - Power System Dynamics and Control": {
+            "avg_views": 6042.75,
+            "avg_likes": 27.85,
+            "avg_dislikes": 1.3,
+            "avg_comments": 1.65
+        },
+        "Mathematics - Discrete Mathematics": {
+            "avg_views": 4990.414634146341,
+            "avg_likes": 20.536585365853657,
+            "avg_dislikes": 2.097560975609756,
+            "avg_comments": 2.5365853658536586
+        },
+        "Mechanical - Convective Heat and Mass Transfer": {
+            "avg_views": 1489.0,
+            "avg_likes": 4.8604651162790695,
+            "avg_dislikes": 0.2558139534883721,
+            "avg_comments": 0.2558139534883721
+        },
+        "Chemical -  Chemical Engineering Thermodynamics": {
+            "avg_views": 8303.542857142857,
+            "avg_likes": 24.742857142857144,
+            "avg_dislikes": 1.8,
+            "avg_comments": 1.7428571428571429
+        },
+        "Civil - Geotechnical Earthquake Engineering": {
+            "avg_views": 4542.162790697675,
+            "avg_likes": 27.046511627906977,
+            "avg_dislikes": 0.9534883720930233,
+            "avg_comments": 1.0465116279069768
+        },
+        "Mechanical - Acoustics": {
+            "avg_views": 2177.7179487179487,
+            "avg_likes": 9.666666666666666,
+            "avg_dislikes": 0.48717948717948717,
+            "avg_comments": 0.5384615384615384
+        },
+        "Mechanical -  Machinery fault diagnosis and signal processing": {
+            "avg_views": 13471.6,
+            "avg_likes": 82.75,
+            "avg_dislikes": 4.3,
+            "avg_comments": 3.675
+        },
+        "Mechanical - Introduction to Fluid Mechanics and Fluid Engineering": {
+            "avg_views": 23508.120689655174,
+            "avg_likes": 108.20689655172414,
+            "avg_dislikes": 3.9310344827586206,
+            "avg_comments": 7.517241379310345
+        },
+        "Mechanical - Technology of Surface Coating": {
+            "avg_views": 4475.175,
+            "avg_likes": 27.85,
+            "avg_dislikes": 1.525,
+            "avg_comments": 1.225
+        },
+        "Humanities - Introduction to Logic": {
+            "avg_views": 3702.4772727272725,
+            "avg_likes": 26.65909090909091,
+            "avg_dislikes": 2.0681818181818183,
+            "avg_comments": 2.227272727272727
+        },
+        "Computer Science - Compiler Design": {
+            "avg_views": 10328.925,
+            "avg_likes": 14.45,
+            "avg_dislikes": 1.4,
+            "avg_comments": 1.325
+        },
+        "Physics -  Electromagnetic Theory": {
+            "avg_views": 19288.925,
+            "avg_likes": 118.55,
+            "avg_dislikes": 4.075,
+            "avg_comments": 6.4
+        },
+        "Mechanical -  Introduction to Fluid Machines and Compressible Flow": {
+            "avg_views": 40925.925,
+            "avg_likes": 212.75,
+            "avg_dislikes": 7.375,
+            "avg_comments": 11.1
+        },
+        "Mathematics - Regression Analysis": {
+            "avg_views": 9576.5,
+            "avg_likes": 40.425,
+            "avg_dislikes": 1.825,
+            "avg_comments": 3.9
+        },
+        "Mathematics - Measure and Integration": {
+            "avg_views": 8954.15,
+            "avg_likes": 48.65,
+            "avg_dislikes": 2.5,
+            "avg_comments": 3.775
+        },
+        "Aerospace - Turbomachinery Aerodynamics": {
+            "avg_views": 6902.95,
+            "avg_likes": 48.45,
+            "avg_dislikes": 1.825,
+            "avg_comments": 1.85
+        },
+        "Management - Managerial Accounting": {
+            "avg_views": 5664.1463414634145,
+            "avg_likes": 26.51219512195122,
+            "avg_dislikes": 1.1951219512195121,
+            "avg_comments": 1.3414634146341464
+        },
+        "Aerospace - Aerospace Propulsion": {
+            "avg_views": 3825.7380952380954,
+            "avg_likes": 30.452380952380953,
+            "avg_dislikes": 0.8333333333333334,
+            "avg_comments": 2.0476190476190474
+        },
+        "Humanities - English Language and Literature": {
+            "avg_views": 4633.9473684210525,
+            "avg_likes": 42.36842105263158,
+            "avg_dislikes": 2.789473684210526,
+            "avg_comments": 1.9736842105263157
+        },
+        "Electrical - Probability Foundation for Electrical Engineers": {
+            "avg_views": 13364.959183673469,
+            "avg_likes": 99.65306122448979,
+            "avg_dislikes": 2.5510204081632653,
+            "avg_comments": 7.571428571428571
+        },
+        "Aerospace - Introduction to CFD": {
+            "avg_views": 4246.410256410257,
+            "avg_likes": 23.923076923076923,
+            "avg_dislikes": 0.717948717948718,
+            "avg_comments": 1.3333333333333333
+        },
+        "Mechanical -  Introduction to Atmospheric Science": {
+            "avg_views": 3925.0975609756097,
+            "avg_likes": 26.536585365853657,
+            "avg_dislikes": 1.170731707317073,
+            "avg_comments": 1.6829268292682926
+        },
+        "Mathematics - Linear Algebra": {
+            "avg_views": 30912.98076923077,
+            "avg_likes": 171.96153846153845,
+            "avg_dislikes": 6.884615384615385,
+            "avg_comments": 11.192307692307692
+        },
+        "Mathematics - Elementary Numerical Analysis": {
+            "avg_views": 3789.925,
+            "avg_likes": 14.075,
+            "avg_dislikes": 2.125,
+            "avg_comments": 0.725
+        },
+        "Electrical - Power Electronics and Distributed Generation": {
+            "avg_views": 3914.375,
+            "avg_likes": 16.425,
+            "avg_dislikes": 0.85,
+            "avg_comments": 0.475
+        },
+        "Humanities - Principles and Parameters in Natural Language": {
+            "avg_views": 2198.7073170731705,
+            "avg_likes": 23.902439024390244,
+            "avg_dislikes": 0.9024390243902439,
+            "avg_comments": 2.2439024390243905
+        },
+        "Computer - High Performance Computer Architecture": {
+            "avg_views": 9611.512195121952,
+            "avg_likes": 36.09756097560975,
+            "avg_dislikes": 2.682926829268293,
+            "avg_comments": 2.658536585365854
+        },
+        "Electrical - Optimal Control": {
+            "avg_views": 4677.3,
+            "avg_likes": 18.533333333333335,
+            "avg_dislikes": 1.2666666666666666,
+            "avg_comments": 1.5166666666666666
+        },
+        "Chemical - Advanced Numerical Analysis": {
+            "avg_views": 4364.0,
+            "avg_likes": 26.73469387755102,
+            "avg_dislikes": 0.9591836734693877,
+            "avg_comments": 1.5510204081632653
+        },
+        "Chemical - Advanced Process Control": {
+            "avg_views": 4017.0384615384614,
+            "avg_likes": 18.03846153846154,
+            "avg_dislikes": 0.8846153846153846,
+            "avg_comments": 1.0769230769230769
+        },
+        "Management - Business Analysis for Engineers": {
+            "avg_views": 4105.571428571428,
+            "avg_likes": 22.0,
+            "avg_dislikes": 0.9523809523809523,
+            "avg_comments": 1.2619047619047619
+        },
+        "Chemical - Advanced Chemical Reaction Engineering (PG)": {
+            "avg_views": 1635.9756097560976,
+            "avg_likes": 8.121951219512194,
+            "avg_dislikes": 0.43902439024390244,
+            "avg_comments": 0.2926829268292683
+        },
+        "General - Introduction to Japanese Language and Culture": {
+            "avg_views": 30377.85,
+            "avg_likes": 326.975,
+            "avg_dislikes": 11.2,
+            "avg_comments": 31.85
+        },
+        "Electrical - Nonlinear Dynamical Systems": {
+            "avg_views": 13625.828571428572,
+            "avg_likes": 60.285714285714285,
+            "avg_dislikes": 5.0285714285714285,
+            "avg_comments": 3.2285714285714286
+        },
+        "Chemical - Multiphase flows:Analytical solutions and Stability Analysis": {
+            "avg_views": 7218.688888888889,
+            "avg_likes": 50.15555555555556,
+            "avg_dislikes": 2.488888888888889,
+            "avg_comments": 2.888888888888889
+        },
+        "Computer - Computer Architecture": {
+            "avg_views": 3355.4166666666665,
+            "avg_likes": 8.777777777777779,
+            "avg_dislikes": 1.1944444444444444,
+            "avg_comments": 1.1666666666666667
+        },
+        "Biotechnology - Bio electricity": {
+            "avg_views": 898.075,
+            "avg_likes": 4.35,
+            "avg_dislikes": 0.575,
+            "avg_comments": 0.15
+        },
+        "Aerospace - Jet and Rocket Propulsion": {
+            "avg_views": 1691.3,
+            "avg_likes": 11.1,
+            "avg_dislikes": 0.3,
+            "avg_comments": 0.675
+        },
+        "Humanities - Contemporary Issues in Philosophy of Mind & Cognition": {
+            "avg_views": 529.4047619047619,
+            "avg_likes": 3.357142857142857,
+            "avg_dislikes": 0.9047619047619048,
+            "avg_comments": 0.5
+        },
+        "Mathematics - Formal Languages and Automata Theory": {
+            "avg_views": 1622.8292682926829,
+            "avg_likes": 4.902439024390244,
+            "avg_dislikes": 0.6097560975609756,
+            "avg_comments": 0.24390243902439024
+        },
+        "Mechanical - Cryogenic Engineering": {
+            "avg_views": 6432.761904761905,
+            "avg_likes": 44.23809523809524,
+            "avg_dislikes": 1.2857142857142858,
+            "avg_comments": 1.880952380952381
+        },
+        "Biotechnology - Animal Physiology": {
+            "avg_views": 1852.6,
+            "avg_likes": 9.8,
+            "avg_dislikes": 0.525,
+            "avg_comments": 0.625
+        },
+        "Chemistry -  Principles and Applications of Electron Paramagnetic Resonance Spectroscopy": {
+            "avg_views": 7975.08,
+            "avg_likes": 51.36,
+            "avg_dislikes": 2.64,
+            "avg_comments": 3.04
+        },
+        "Mechanical - Spray Theory and Applications": {
+            "avg_views": 2536.0243902439024,
+            "avg_likes": 15.463414634146341,
+            "avg_dislikes": 0.5853658536585366,
+            "avg_comments": 0.6585365853658537
+        },
+        "Humanities -  Introduction to Modern Linguistics": {
+            "avg_views": 8224.142857142857,
+            "avg_likes": 104.35714285714286,
+            "avg_dislikes": 4.0,
+            "avg_comments": 7.666666666666667
+        },
+        "Civil - Watershed Management": {
+            "avg_views": 4510.225,
+            "avg_likes": 31.325,
+            "avg_dislikes": 2.625,
+            "avg_comments": 2.0
+        },
+        "Mathematics -  Probability Theory and Applications": {
+            "avg_views": 12498.925,
+            "avg_likes": 56.4,
+            "avg_dislikes": 7.15,
+            "avg_comments": 3.55
+        },
+        "Mechanical - Advanced manufacturing process for micro system fabrication": {
+            "avg_views": 1336.2432432432433,
+            "avg_likes": 5.783783783783784,
+            "avg_dislikes": 0.32432432432432434,
+            "avg_comments": 0.2972972972972973
+        },
+        "Civil - Application of Soil Mechanics": {
+            "avg_views": 178.575,
+            "avg_likes": 0.85,
+            "avg_dislikes": 0.0,
+            "avg_comments": 0.2
+        },
+        "Electrical -  Modelling and Analysis of Electric Machines": {
+            "avg_views": 15432.023255813954,
+            "avg_likes": 75.09302325581395,
+            "avg_dislikes": 2.2790697674418605,
+            "avg_comments": 3.813953488372093
+        },
+        "Electronics - Digital Switching": {
+            "avg_views": 2210.2432432432433,
+            "avg_likes": 5.108108108108108,
+            "avg_dislikes": 0.2972972972972973,
+            "avg_comments": 0.16216216216216217
+        },
+        "Atmospheric -  The monsoon and its variability": {
+            "avg_views": 624.7857142857143,
+            "avg_likes": 3.9047619047619047,
+            "avg_dislikes": 0.16666666666666666,
+            "avg_comments": 0.09523809523809523
+        },
+        "Computer Science -  Principles of Compiler Design": {
+            "avg_views": 7410.05,
+            "avg_likes": 20.325,
+            "avg_dislikes": 2.45,
+            "avg_comments": 1.45
+        },
+        "Management - Managerial Economics": {
+            "avg_views": 7099.9,
+            "avg_likes": 27.5,
+            "avg_dislikes": 2.15,
+            "avg_comments": 1.875
+        },
+        "Electronics - Basic Electrical Circuits": {
+            "avg_views": 13697.57142857143,
+            "avg_likes": 39.476190476190474,
+            "avg_dislikes": 5.809523809523809,
+            "avg_comments": 3.142857142857143
+        },
+        "Metallurgy - Electronic materials, devices, and fabrication": {
+            "avg_views": 16958.725,
+            "avg_likes": 134.325,
+            "avg_dislikes": 6.75,
+            "avg_comments": 6.575
+        },
+        "Nanotechnology - Nanostructures and Nanomaterials: Characterization and Properties": {
+            "avg_views": 8486.711111111112,
+            "avg_likes": 45.888888888888886,
+            "avg_dislikes": 3.488888888888889,
+            "avg_comments": 2.6666666666666665
+        },
+        "Computer Science - Riemann Hypothesis and its Applications": {
+            "avg_views": 1882.3666666666666,
+            "avg_likes": 8.566666666666666,
+            "avg_dislikes": 0.4,
+            "avg_comments": 1.3
+        },
+        "Mechanical - Engineering Drawing": {
+            "avg_views": 11486.225,
+            "avg_likes": 37.325,
+            "avg_dislikes": 1.175,
+            "avg_comments": 1.75
+        },
+        "Humanities - Selected Topics in Psychology": {
+            "avg_views": 1787.5714285714287,
+            "avg_likes": 19.142857142857142,
+            "avg_dislikes": 0.5428571428571428,
+            "avg_comments": 1.0857142857142856
+        },
+        "Humanities - Human Adjustment Processes": {
+            "avg_views": 654.45,
+            "avg_likes": 5.35,
+            "avg_dislikes": 0.175,
+            "avg_comments": 0.1
+        },
+        "Electronics - Digital System design with PLDs and FPGAs": {
+            "avg_views": 6305.863636363636,
+            "avg_likes": 27.363636363636363,
+            "avg_dislikes": 1.0,
+            "avg_comments": 1.3636363636363635
+        },
+        "Nanotechnology - Nano structured materials-synthesis, properties, self assembly and applications": {
+            "avg_views": 9276.775,
+            "avg_likes": 61.1,
+            "avg_dislikes": 1.975,
+            "avg_comments": 3.75
+        },
+        "Chemistry and Biochemistry - Chemistry of Materials": {
+            "avg_views": 4055.025,
+            "avg_likes": 26.225,
+            "avg_dislikes": 1.1,
+            "avg_comments": 2.125
+        },
+        "Civil - Seismic Analysis of Structures": {
+            "avg_views": 3730.633333333333,
+            "avg_likes": 14.866666666666667,
+            "avg_dislikes": 0.7333333333333333,
+            "avg_comments": 0.6333333333333333
+        },
+        "Computer Science - Pattern Recognition": {
+            "avg_views": 12918.186046511628,
+            "avg_likes": 67.48837209302326,
+            "avg_dislikes": 3.6511627906976742,
+            "avg_comments": 5.790697674418604
+        },
+        "Mathematics - Ordinary Differential Equations and Applications": {
+            "avg_views": 9335.4,
+            "avg_likes": 47.275,
+            "avg_dislikes": 2.175,
+            "avg_comments": 2.825
+        },
+        "Civil - Advanced Foundation Engineering": {
+            "avg_views": 42036.475,
+            "avg_likes": 240.85,
+            "avg_dislikes": 13.4,
+            "avg_comments": 9.875
+        },
+        "Mechanical - Mathematical Methods in Engineering and Science": {
+            "avg_views": 4428.9,
+            "avg_likes": 18.875,
+            "avg_dislikes": 1.825,
+            "avg_comments": 0.75
+        },
+        "Chemistry - Introduction to Organometallic Chemistry": {
+            "avg_views": 6499.375,
+            "avg_likes": 46.925,
+            "avg_dislikes": 1.8,
+            "avg_comments": 1.475
+        },
+        "Chemical - Chemical Reaction Engineering II": {
+            "avg_views": 7522.794871794872,
+            "avg_likes": 43.97435897435897,
+            "avg_dislikes": 1.5128205128205128,
+            "avg_comments": 1.8461538461538463
+        },
+        "Engineering Design - Vehicle Dynamics": {
+            "avg_views": 30865.46875,
+            "avg_likes": 157.03125,
+            "avg_dislikes": 5.28125,
+            "avg_comments": 9.59375
+        },
+        "Physics - Topics in Nonlinear Dynamics": {
+            "avg_views": 6932.827586206897,
+            "avg_likes": 49.172413793103445,
+            "avg_dislikes": 0.7931034482758621,
+            "avg_comments": 4.241379310344827
+        },
+        "Basic courses - Engineering Physics I": {
+            "avg_views": 7353.725,
+            "avg_likes": 38.625,
+            "avg_dislikes": 6.75,
+            "avg_comments": 2.625
+        },
+        "Mechanical - Convective Heat Transfer": {
+            "avg_views": 8275.454545454546,
+            "avg_likes": 45.63636363636363,
+            "avg_dislikes": 2.1136363636363638,
+            "avg_comments": 2.227272727272727
+        },
+        "Computer Science - Theory of Computation": {
+            "avg_views": 20254.190476190477,
+            "avg_likes": 79.26190476190476,
+            "avg_dislikes": 3.0238095238095237,
+            "avg_comments": 7.5
+        },
+        "Chemical - Process Integration": {
+            "avg_views": 3474.767441860465,
+            "avg_likes": 18.41860465116279,
+            "avg_dislikes": 0.7209302325581395,
+            "avg_comments": 1.4651162790697674
+        },
+        "Mathematics - Optimization": {
+            "avg_views": 25681.1,
+            "avg_likes": 111.95,
+            "avg_dislikes": 8.7,
+            "avg_comments": 9.2
+        },
+        "Physics - Selected Topics in Mathematical Physics": {
+            "avg_views": 37504.75,
+            "avg_likes": 289.72222222222223,
+            "avg_dislikes": 6.972222222222222,
+            "avg_comments": 17.055555555555557
+        },
+        "Aerospace - Introduction to Propulsion": {
+            "avg_views": 2478.825,
+            "avg_likes": 13.55,
+            "avg_dislikes": 0.325,
+            "avg_comments": 0.625
+        },
+        "Electronics - Pattern Recognition and Application": {
+            "avg_views": 17790.35,
+            "avg_likes": 88.75,
+            "avg_dislikes": 3.725,
+            "avg_comments": 8.55
+        },
+        "Mechanical - Gas Dynamics and Propulsion": {
+            "avg_views": 9566.825,
+            "avg_likes": 57.325,
+            "avg_dislikes": 1.4,
+            "avg_comments": 3.825
+        },
+        "Management - Applied Multivariate Statistical Modeling": {
+            "avg_views": 16959.785714285714,
+            "avg_likes": 94.54761904761905,
+            "avg_dislikes": 3.6904761904761907,
+            "avg_comments": 6.690476190476191
+        },
+        "Computer Science - Artificial Intelligence": {
+            "avg_views": 29143.833333333332,
+            "avg_likes": 124.1875,
+            "avg_dislikes": 7.75,
+            "avg_comments": 9.041666666666666
+        },
+        "Physics - Special/Select Topics in the Theory of Atomic Coll": {
+            "avg_views": 3110.2608695652175,
+            "avg_likes": 21.76086956521739,
+            "avg_dislikes": 0.5652173913043478,
+            "avg_comments": 0.9565217391304348
+        },
+        "Metallurgy - Structure of Materials": {
+            "avg_views": 12301.8,
+            "avg_likes": 57.2,
+            "avg_dislikes": 3.1777777777777776,
+            "avg_comments": 2.066666666666667
+        },
+        "Engineering Design - Principles of Engineering System Design": {
+            "avg_views": 4762.0,
+            "avg_likes": 19.1,
+            "avg_dislikes": 1.3,
+            "avg_comments": 0.8333333333333334
+        },
+        "Civil - Geosynthetics Engineering: In Theory and Practice": {
+            "avg_views": 1022.1587301587301,
+            "avg_likes": 1.9682539682539681,
+            "avg_dislikes": 0.15873015873015872,
+            "avg_comments": 0.07936507936507936
+        },
+        "Chemical - Process Design Decisions and Project Economics": {
+            "avg_views": 6413.673913043478,
+            "avg_likes": 22.934782608695652,
+            "avg_dislikes": 1.4565217391304348,
+            "avg_comments": 1.2391304347826086
+        },
+        "Mechanical - Theory & Practice of Rotor Dynamics": {
+            "avg_views": 3487.1190476190477,
+            "avg_likes": 13.80952380952381,
+            "avg_dislikes": 0.8095238095238095,
+            "avg_comments": 1.2619047619047619
+        },
+        "Metallurgy -  Optoelectronic Materials and Devices": {
+            "avg_views": 12695.025,
+            "avg_likes": 70.75,
+            "avg_dislikes": 3.25,
+            "avg_comments": 4.4
+        },
+        "Mechanical -  Computational Fluid Dynamics": {
+            "avg_views": 6266.906976744186,
+            "avg_likes": 25.232558139534884,
+            "avg_dislikes": 1.744186046511628,
+            "avg_comments": 2.0
+        },
+        "Chemistry - Mathematics for Chemistry": {
+            "avg_views": 3229.0,
+            "avg_likes": 14.625,
+            "avg_dislikes": 0.725,
+            "avg_comments": 1.0
+        },
+        "Civil - Numerical Methods in Civil Engineering": {
+            "avg_views": 3129.1,
+            "avg_likes": 9.75,
+            "avg_dislikes": 0.8,
+            "avg_comments": 0.375
+        },
+        "Electronics - Advanced Optical Communication": {
+            "avg_views": 15390.975609756097,
+            "avg_likes": 55.63414634146341,
+            "avg_dislikes": 2.8536585365853657,
+            "avg_comments": 4.048780487804878
+        },
+        "Mechanical - An Introduction to Explosions and Explosion Safety": {
+            "avg_views": 4530.475,
+            "avg_likes": 28.275,
+            "avg_dislikes": 0.35,
+            "avg_comments": 2.05
+        },
+        "Mathematics - Topology": {
+            "avg_views": 23781.04761904762,
+            "avg_likes": 139.66666666666666,
+            "avg_dislikes": 8.571428571428571,
+            "avg_comments": 9.476190476190476
+        },
+        "Ocean - Port and Harbour Structures": {
+            "avg_views": 5680.895833333333,
+            "avg_likes": 30.416666666666668,
+            "avg_dislikes": 1.8333333333333333,
+            "avg_comments": 1.0416666666666667
+        },
+        "Civil - Concrete Technology": {
+            "avg_views": 14883.825,
+            "avg_likes": 91.3,
+            "avg_dislikes": 2.9,
+            "avg_comments": 2.8
+        },
+        "Mechanical - Nonlinear Vibration": {
+            "avg_views": 2219.175,
+            "avg_likes": 6.125,
+            "avg_dislikes": 1.475,
+            "avg_comments": 0.4
+        },
+        "Computer Science -  Parallel Algorithm": {
+            "avg_views": 4170.75,
+            "avg_likes": 5.958333333333333,
+            "avg_dislikes": 1.5416666666666667,
+            "avg_comments": 0.7916666666666666
+        },
+        "Chemical - Fundamentals of Transport Processes - II": {
+            "avg_views": 6857.775,
+            "avg_likes": 37.925,
+            "avg_dislikes": 1.275,
+            "avg_comments": 1.9
+        },
+        "Chemical - Chemical Technology - I": {
+            "avg_views": 8774.5,
+            "avg_likes": 60.0,
+            "avg_dislikes": 6.175,
+            "avg_comments": 3.025
+        },
+        "Physics - Nuclear Physics Fundamentals and Application": {
+            "avg_views": 38982.0,
+            "avg_likes": 309.5952380952381,
+            "avg_dislikes": 8.380952380952381,
+            "avg_comments": 20.857142857142858
+        },
+        "Mathematics - Foundations of Optimization": {
+            "avg_views": 3005.2702702702704,
+            "avg_likes": 6.27027027027027,
+            "avg_dislikes": 0.4864864864864865,
+            "avg_comments": 0.6216216216216216
+        },
+        "Metallurgy - Environmental Degradation of Materials": {
+            "avg_views": 22637.317073170732,
+            "avg_likes": 111.92682926829268,
+            "avg_dislikes": 6.146341463414634,
+            "avg_comments": 7.170731707317073
+        },
+        "Mechanical - Vibration control": {
+            "avg_views": 3911.7,
+            "avg_likes": 15.975,
+            "avg_dislikes": 0.95,
+            "avg_comments": 0.775
+        },
+        "Computer - Computer Algorithms - 2": {
+            "avg_views": 4572.0,
+            "avg_likes": 13.857142857142858,
+            "avg_dislikes": 1.5142857142857142,
+            "avg_comments": 1.8571428571428572
+        },
+        "Computer - Storage Systems": {
+            "avg_views": 2565.5116279069766,
+            "avg_likes": 5.395348837209302,
+            "avg_dislikes": 0.5348837209302325,
+            "avg_comments": 0.27906976744186046
+        },
+        "Metallurgy -  Processing of Semiconducting Materials": {
+            "avg_views": 3408.875,
+            "avg_likes": 23.775,
+            "avg_dislikes": 1.025,
+            "avg_comments": 1.875
+        },
+        "Management -  Infrastructure Finance": {
+            "avg_views": 3566.675,
+            "avg_likes": 14.475,
+            "avg_dislikes": 0.575,
+            "avg_comments": 1.275
+        },
+        "Humanities - Money & Banking": {
+            "avg_views": 3260.1,
+            "avg_likes": 20.175,
+            "avg_dislikes": 0.3,
+            "avg_comments": 1.9
+        },
+        "Humanities - Macro Economics": {
+            "avg_views": 15611.954545454546,
+            "avg_likes": 111.0909090909091,
+            "avg_dislikes": 2.727272727272727,
+            "avg_comments": 9.772727272727273
+        },
+        "Metallurgy - Advanced ceramics for strategic applications": {
+            "avg_views": 7573.804347826087,
+            "avg_likes": 48.130434782608695,
+            "avg_dislikes": 2.5869565217391304,
+            "avg_comments": 1.8043478260869565
+        },
+        "Electrical -  Pulse width Modulation for Power Electronic Converters": {
+            "avg_views": 22500.15,
+            "avg_likes": 111.15,
+            "avg_dislikes": 4.875,
+            "avg_comments": 6.525
+        },
+        "Chemistry - Polymer Chemistry": {
+            "avg_views": 6772.707317073171,
+            "avg_likes": 28.902439024390244,
+            "avg_dislikes": 2.1219512195121952,
+            "avg_comments": 1.5609756097560976
+        },
+        "Electrical - Digital System Design": {
+            "avg_views": 11330.62962962963,
+            "avg_likes": 39.333333333333336,
+            "avg_dislikes": 3.4444444444444446,
+            "avg_comments": 2.8518518518518516
+        },
+        "Ocean - Foundation for Offshore Structures": {
+            "avg_views": 4217.333333333333,
+            "avg_likes": 18.363636363636363,
+            "avg_dislikes": 0.9696969696969697,
+            "avg_comments": 0.7575757575757576
+        },
+        "Mechanical - Micro and Smart Systems": {
+            "avg_views": 2988.25,
+            "avg_likes": 11.5,
+            "avg_dislikes": 0.8,
+            "avg_comments": 1.05
+        },
+        "Chemistry - Co-ordination chemistry (chemistry of transition elements)": {
+            "avg_views": 14960.575,
+            "avg_likes": 86.225,
+            "avg_dislikes": 5.375,
+            "avg_comments": 4.95
+        },
+        "Mechanical - Introduction to Finite Element Method": {
+            "avg_views": 41182.030303030304,
+            "avg_likes": 174.6060606060606,
+            "avg_dislikes": 4.151515151515151,
+            "avg_comments": 12.484848484848484
+        },
+        "Computer Science - Combinatorics": {
+            "avg_views": 2736.829268292683,
+            "avg_likes": 8.634146341463415,
+            "avg_dislikes": 1.6829268292682926,
+            "avg_comments": 0.9512195121951219
+        },
+        "Humanities - Communication Skills": {
+            "avg_views": 9017.7,
+            "avg_likes": 57.875,
+            "avg_dislikes": 2.925,
+            "avg_comments": 4.275
+        },
+        "Mathematics - Mathematics in India - From Vedic Period to Modern Times": {
+            "avg_views": 6861.75,
+            "avg_likes": 62.325,
+            "avg_dislikes": 2.125,
+            "avg_comments": 4.55
+        },
+        "Chemical Engineering - Plantwide Control of Chemical Processes": {
+            "avg_views": 4691.926829268293,
+            "avg_likes": 24.902439024390244,
+            "avg_dislikes": 1.1951219512195121,
+            "avg_comments": 0.8780487804878049
+        },
+        "Electronics - Signals and Systems": {
+            "avg_views": 18511.133333333335,
+            "avg_likes": 43.733333333333334,
+            "avg_dislikes": 2.311111111111111,
+            "avg_comments": 3.8666666666666667
+        },
+        "Management - Strategic Marketing - Contemporary Issues": {
+            "avg_views": 2751.4324324324325,
+            "avg_likes": 10.378378378378379,
+            "avg_dislikes": 0.3783783783783784,
+            "avg_comments": 0.5675675675675675
+        },
+        "Humanities and Social Sciences - Indian Philosophy": {
+            "avg_views": 10319.309523809523,
+            "avg_likes": 85.9047619047619,
+            "avg_dislikes": 4.642857142857143,
+            "avg_comments": 9.380952380952381
+        },
+        "Humanities and Social Sciences - Cultural Studies": {
+            "avg_views": 2440.8,
+            "avg_likes": 16.825,
+            "avg_dislikes": 1.075,
+            "avg_comments": 1.275
+        },
+        "Computer Science and Engineering - Computer Networks": {
+            "avg_views": 92299.1,
+            "avg_likes": 145.125,
+            "avg_dislikes": 11.35,
+            "avg_comments": 15.275
+        },
+        "Electronics - RF Integrated Circuits": {
+            "avg_views": 12359.25,
+            "avg_likes": 49.625,
+            "avg_dislikes": 2.1,
+            "avg_comments": 3.8
+        },
+        "Electronics - Pattern Recognition": {
+            "avg_views": 7484.233333333334,
+            "avg_likes": 30.1,
+            "avg_dislikes": 2.1333333333333333,
+            "avg_comments": 2.5
+        },
+        "Electronics - Error Correcting Codes": {
+            "avg_views": 5866.452380952381,
+            "avg_likes": 13.19047619047619,
+            "avg_dislikes": 1.6666666666666667,
+            "avg_comments": 1.2619047619047619
+        },
+        "Electronics - Information Theory and Coding": {
+            "avg_views": 12844.951219512195,
+            "avg_likes": 31.75609756097561,
+            "avg_dislikes": 3.6097560975609757,
+            "avg_comments": 2.4390243902439024
+        },
+        "Physics - Quantum Mechanics and Application": {
+            "avg_views": 24241.119047619046,
+            "avg_likes": 179.57142857142858,
+            "avg_dislikes": 4.928571428571429,
+            "avg_comments": 12.30952380952381
+        },
+        "Mathematics - Probability and Statistics": {
+            "avg_views": 21738.375,
+            "avg_likes": 63.375,
+            "avg_dislikes": 3.75,
+            "avg_comments": 5.675
+        },
+        "Humanities and Social Sciences - Indian philosophy": {
+            "avg_views": 10319.309523809523,
+            "avg_likes": 85.9047619047619,
+            "avg_dislikes": 4.642857142857143,
+            "avg_comments": 9.380952380952381
+        },
+        "Humanities and Social Sciences-Cultural Studies": {
+            "avg_views": 2440.8,
+            "avg_likes": 16.825,
+            "avg_dislikes": 1.075,
+            "avg_comments": 1.275
+        },
+        "Engineering Desing -Ergonomics for beginners: Industrial design perspective": {
+            "avg_views": 1165.225,
+            "avg_likes": 4.05,
+            "avg_dislikes": 0.3,
+            "avg_comments": 0.2
+        },
+        "Metallurgy -  Principles of Physical Metallurgy": {
+            "avg_views": 31222.833333333332,
+            "avg_likes": 155.92857142857142,
+            "avg_dislikes": 7.523809523809524,
+            "avg_comments": 6.023809523809524
+        },
+        "Chemistry - Introductory Quantum Chemistry": {
+            "avg_views": 18352.816326530614,
+            "avg_likes": 143.44897959183675,
+            "avg_dislikes": 3.5306122448979593,
+            "avg_comments": 7.938775510204081
+        },
+        "Civil -  Advanced Hydraulics": {
+            "avg_views": 6838.0,
+            "avg_likes": 29.767441860465116,
+            "avg_dislikes": 2.2325581395348837,
+            "avg_comments": 2.186046511627907
+        },
+        "Physics - Classical Field Theory": {
+            "avg_views": 4596.974358974359,
+            "avg_likes": 22.564102564102566,
+            "avg_dislikes": 0.5128205128205128,
+            "avg_comments": 2.41025641025641
+        },
+        "Humanities - Introductory Sociology": {
+            "avg_views": 19299.414634146342,
+            "avg_likes": 219.6829268292683,
+            "avg_dislikes": 6.2682926829268295,
+            "avg_comments": 13.731707317073171
+        },
+        "Mechanical - Welding Engineering": {
+            "avg_views": 8057.925,
+            "avg_likes": 37.75,
+            "avg_dislikes": 3.25,
+            "avg_comments": 1.725
+        },
+        "Computer Science - Parallel Computing": {
+            "avg_views": 18000.852941176472,
+            "avg_likes": 13.735294117647058,
+            "avg_dislikes": 2.0294117647058822,
+            "avg_comments": 0.7647058823529411
+        },
+        "Biotechnology -  Analytical Technologies in Biotechnology": {
+            "avg_views": 5750.292682926829,
+            "avg_likes": 36.02439024390244,
+            "avg_dislikes": 4.512195121951219,
+            "avg_comments": 3.5365853658536586
+        },
+        "Electronics - Semiconductor Device Modeling": {
+            "avg_views": 2927.586956521739,
+            "avg_likes": 10.630434782608695,
+            "avg_dislikes": 0.34782608695652173,
+            "avg_comments": 0.8695652173913043
+        },
+        "Mathematics - Complex Analysis": {
+            "avg_views": 22690.5,
+            "avg_likes": 108.525,
+            "avg_dislikes": 4.925,
+            "avg_comments": 8.975
+        },
+        "Chemical - Mass Transfer Operations I": {
+            "avg_views": 19609.13157894737,
+            "avg_likes": 60.71052631578947,
+            "avg_dislikes": 5.315789473684211,
+            "avg_comments": 5.052631578947368
+        },
+        "Physics - Semiconductor Optoelectronics": {
+            "avg_views": 30587.391304347828,
+            "avg_likes": 241.1304347826087,
+            "avg_dislikes": 6.804347826086956,
+            "avg_comments": 16.52173913043478
+        },
+        "Management -  Organisation of Engineering Systems and Human Resources Management": {
+            "avg_views": 544.9736842105264,
+            "avg_likes": 1.7894736842105263,
+            "avg_dislikes": 0.02631578947368421,
+            "avg_comments": 0.07894736842105263
+        },
+        "Chemical - Heterogeneous Catalysis and Catalytic Processes": {
+            "avg_views": 1345.05,
+            "avg_likes": 5.025,
+            "avg_dislikes": 0.525,
+            "avg_comments": 0.45
+        },
+        "General - India's Ayurvedic Inheritance": {
+            "avg_views": 3979.15,
+            "avg_likes": 34.7,
+            "avg_dislikes": 1.3,
+            "avg_comments": 2.5
+        },
+        "Biotechnology -  Downstream Processing": {
+            "avg_views": 4155.2,
+            "avg_likes": 23.85,
+            "avg_dislikes": 1.05,
+            "avg_comments": 0.775
+        },
+        "Management -  Organizational Behaviour": {
+            "avg_views": 4726.0,
+            "avg_likes": 16.48780487804878,
+            "avg_dislikes": 2.3902439024390243,
+            "avg_comments": 1.2682926829268293
+        },
+        "Management - International Finance": {
+            "avg_views": 6113.775,
+            "avg_likes": 27.875,
+            "avg_dislikes": 3.2,
+            "avg_comments": 2.425
+        },
+        "Mechanical  - Advanced Manufacturing Processes": {
+            "avg_views": 17283.15,
+            "avg_likes": 64.025,
+            "avg_dislikes": 7.8,
+            "avg_comments": 5.15
+        },
+        "Ocean Engineering - Design of Offshore Structures": {
+            "avg_views": 4458.116279069767,
+            "avg_likes": 19.302325581395348,
+            "avg_dislikes": 0.7906976744186046,
+            "avg_comments": 0.7441860465116279
+        },
+        "Management -  Global Supply Chain Management": {
+            "avg_views": 2043.7368421052631,
+            "avg_likes": 9.078947368421053,
+            "avg_dislikes": 0.2631578947368421,
+            "avg_comments": 0.5789473684210527
+        },
+        "Ocean Engineering - Advanced Marine Structures": {
+            "avg_views": 8894.264150943396,
+            "avg_likes": 34.886792452830186,
+            "avg_dislikes": 2.207547169811321,
+            "avg_comments": 2.1320754716981134
+        },
+        "Chemistry and Bio-Chemistry - Bio Inorganic Chemistry": {
+            "avg_views": 2230.875,
+            "avg_likes": 10.55,
+            "avg_dislikes": 0.35,
+            "avg_comments": 0.35
+        },
+        "Physics -  Condensed Matter Physics": {
+            "avg_views": 17369.275862068964,
+            "avg_likes": 98.74137931034483,
+            "avg_dislikes": 5.5344827586206895,
+            "avg_comments": 5.896551724137931
+        },
+        "Mathematics - Numerical methods of Ordinary and Partial": {
+            "avg_views": 11421.95,
+            "avg_likes": 51.725,
+            "avg_dislikes": 2.8,
+            "avg_comments": 2.525
+        },
+        "Mechanical - Solar Energy Technology": {
+            "avg_views": 5104.093023255814,
+            "avg_likes": 18.837209302325583,
+            "avg_dislikes": 1.1162790697674418,
+            "avg_comments": 0.8372093023255814
+        },
+        "Management - Manufacturing Systems Management": {
+            "avg_views": 6179.15,
+            "avg_likes": 28.05,
+            "avg_dislikes": 1.3,
+            "avg_comments": 1.275
+        },
+        "Metallurgy - Electroceramics": {
+            "avg_views": 1230.7560975609756,
+            "avg_likes": 10.731707317073171,
+            "avg_dislikes": 0.3170731707317073,
+            "avg_comments": 2.2439024390243905
+        },
+        "Chemical - Microscale Transport Processes": {
+            "avg_views": 1258.5,
+            "avg_likes": 4.5,
+            "avg_dislikes": 0.0,
+            "avg_comments": 0.0
+        },
+        "Ocean - Ship Resistance and Propulsion": {
+            "avg_views": 2239.0,
+            "avg_likes": 12.294117647058824,
+            "avg_dislikes": 0.7058823529411765,
+            "avg_comments": 0.5294117647058824
+        },
+        "Humanities - Better Spoken English": {
+            "avg_views": 37465.55263157895,
+            "avg_likes": 263.6842105263158,
+            "avg_dislikes": 9.18421052631579,
+            "avg_comments": 10.421052631578947
+        },
+        "Chemistry - Heterocyclic Chemistry": {
+            "avg_views": 4034.825,
+            "avg_likes": 20.05,
+            "avg_dislikes": 2.2,
+            "avg_comments": 0.85
+        },
+        "Mechanical - Fluid Mechanics": {
+            "avg_views": 68336.0612244898,
+            "avg_likes": 252.79591836734693,
+            "avg_dislikes": 7.816326530612245,
+            "avg_comments": 24.897959183673468
+        },
+        "Ocean - Marine Hydrodynamics": {
+            "avg_views": 2732.0,
+            "avg_likes": 10.725,
+            "avg_dislikes": 3.25,
+            "avg_comments": 1.675
+        },
+        "Civil - Modern Construction Materials": {
+            "avg_views": 8426.85,
+            "avg_likes": 56.7,
+            "avg_dislikes": 1.7,
+            "avg_comments": 2.15
+        },
+        "Mechanical - Microfluidics": {
+            "avg_views": 996.560975609756,
+            "avg_likes": 3.5365853658536586,
+            "avg_dislikes": 0.0975609756097561,
+            "avg_comments": 0.1951219512195122
+        },
+        "Nanotechnology - Economics / Management / Entrepreneurhip": {
+            "avg_views": 1532.68,
+            "avg_likes": 5.52,
+            "avg_dislikes": 0.54,
+            "avg_comments": 0.34
+        },
+        "Aerospace - Space Flight Mechanics": {
+            "avg_views": 2098.688888888889,
+            "avg_likes": 9.622222222222222,
+            "avg_dislikes": 0.9111111111111111,
+            "avg_comments": 0.9555555555555556
+        },
+        "Mathematics - A Basic Course in Real Analysis": {
+            "avg_views": 12702.934782608696,
+            "avg_likes": 72.78260869565217,
+            "avg_dislikes": 4.173913043478261,
+            "avg_comments": 3.782608695652174
+        },
+        "Aerospace - Introduction to Aerodynamics": {
+            "avg_views": 5752.739130434783,
+            "avg_likes": 22.565217391304348,
+            "avg_dislikes": 1.608695652173913,
+            "avg_comments": 1.6304347826086956
+        },
+        "Aerospace - High Speed Aero Dynamics": {
+            "avg_views": 1004.25,
+            "avg_likes": 3.9,
+            "avg_dislikes": 0.55,
+            "avg_comments": 0.4
+        },
+        "Mathematics - Stochastic Processes": {
+            "avg_views": 7338.051282051282,
+            "avg_likes": 17.692307692307693,
+            "avg_dislikes": 2.7948717948717947,
+            "avg_comments": 1.9230769230769231
+        },
+        "Mathematics - An Introduction to Riemann Surfaces and Algebraic Curves: Complex 1-Tori and Elliptic  Curves": {
+            "avg_views": 4422.791666666667,
+            "avg_likes": 27.3125,
+            "avg_dislikes": 1.25,
+            "avg_comments": 1.9583333333333333
+        },
+        "Mathematics - Statistical Inference": {
+            "avg_views": 11442.1,
+            "avg_likes": 66.75,
+            "avg_dislikes": 2.55,
+            "avg_comments": 3.8
+        },
+        "Ocean - Ocean Structures and Materials": {
+            "avg_views": 2247.4473684210525,
+            "avg_likes": 11.631578947368421,
+            "avg_dislikes": 0.5263157894736842,
+            "avg_comments": 0.34210526315789475
+        },
+        "Management - Consumer Behaviour": {
+            "avg_views": 4566.275,
+            "avg_likes": 26.7,
+            "avg_dislikes": 1.05,
+            "avg_comments": 1.75
+        },
+        "Electronics-Advanced 3G & 4G Wireless Mobile Communications": {
+            "avg_views": 29576.675,
+            "avg_likes": 105.825,
+            "avg_dislikes": 4.2,
+            "avg_comments": 9.7
+        },
+        "Biotechnology - Proteomics: Principles and Techniques": {
+            "avg_views": 2714.975,
+            "avg_likes": 12.275,
+            "avg_dislikes": 0.85,
+            "avg_comments": 1.6
+        },
+        "Civil - Soil Dynamics": {
+            "avg_views": 12323.51282051282,
+            "avg_likes": 80.66666666666667,
+            "avg_dislikes": 2.5384615384615383,
+            "avg_comments": 4.769230769230769
+        },
+        "Computer - Biometrics": {
+            "avg_views": 2024.3461538461538,
+            "avg_likes": 7.769230769230769,
+            "avg_dislikes": 0.6153846153846154,
+            "avg_comments": 0.23076923076923078
+        },
+        "Civil - Geotechnical Measuements & Explorations": {
+            "avg_views": 0.0,
+            "avg_likes": 0.0,
+            "avg_dislikes": 0.0,
+            "avg_comments": 0.0
+        },
+        "Ocean - Dynamics of Ocean Structures": {
+            "avg_views": 10407.34693877551,
+            "avg_likes": 47.46938775510204,
+            "avg_dislikes": 2.3469387755102042,
+            "avg_comments": 3.061224489795918
+        },
+        "Humanities - International Economics": {
+            "avg_views": 1783.047619047619,
+            "avg_likes": 6.0,
+            "avg_dislikes": 0.5476190476190477,
+            "avg_comments": 0.40476190476190477
+        },
+        "Humanities - Introduction to Film Studies": {
+            "avg_views": 4531.125,
+            "avg_likes": 29.125,
+            "avg_dislikes": 1.65,
+            "avg_comments": 1.05
+        },
+        "Atmospheric Science - Radiation Heat Transfer": {
+            "avg_views": 1558.4473684210527,
+            "avg_likes": 5.2368421052631575,
+            "avg_dislikes": 0.6842105263157895,
+            "avg_comments": 0.2894736842105263
+        },
+        "Chemical - Multiphase Flow": {
+            "avg_views": 1562.5,
+            "avg_likes": 6.225,
+            "avg_dislikes": 0.25,
+            "avg_comments": 0.275
+        },
+        "Ocean - Coastal Engineering": {
+            "avg_views": 1334.6756756756756,
+            "avg_likes": 6.675675675675675,
+            "avg_dislikes": 0.2972972972972973,
+            "avg_comments": 0.21621621621621623
+        },
+        "Mathematics - Advanced Engineering Mathematics": {
+            "avg_views": 17992.666666666668,
+            "avg_likes": 70.76190476190476,
+            "avg_dislikes": 5.285714285714286,
+            "avg_comments": 4.071428571428571
+        },
+        "Physics - Plasma Physics: Fundamentals and Applications": {
+            "avg_views": 7360.833333333333,
+            "avg_likes": 47.023809523809526,
+            "avg_dislikes": 1.2619047619047619,
+            "avg_comments": 2.9761904761904763
+        },
+        "Chemical - Fluid Mechanics": {
+            "avg_views": 14979.358974358975,
+            "avg_likes": 56.87179487179487,
+            "avg_dislikes": 2.0,
+            "avg_comments": 3.2564102564102564
+        },
+        "Electronics - Analog IC Design": {
+            "avg_views": 6507.733333333334,
+            "avg_likes": 19.566666666666666,
+            "avg_dislikes": 0.65,
+            "avg_comments": 3.2
+        },
+        "Chemistry - Advance Analytical Course": {
+            "avg_views": 1165.8,
+            "avg_likes": 4.1,
+            "avg_dislikes": 0.125,
+            "avg_comments": 0.25
+        },
+        "Mathematics - Convex Optimization": {
+            "avg_views": 3260.285714285714,
+            "avg_likes": 9.5,
+            "avg_dislikes": 0.23809523809523808,
+            "avg_comments": 1.6666666666666667
+        },
+        "Textile - Natural Dyes": {
+            "avg_views": 947.075,
+            "avg_likes": 6.65,
+            "avg_dislikes": 0.2,
+            "avg_comments": 0.35
+        },
+        "Aerospace - Gas Dynamics": {
+            "avg_views": 3072.259259259259,
+            "avg_likes": 10.62962962962963,
+            "avg_dislikes": 0.3148148148148148,
+            "avg_comments": 0.5925925925925926
+        },
+        "Physics - Quantum Mechanics I": {
+            "avg_views": 28730.80487804878,
+            "avg_likes": 202.29268292682926,
+            "avg_dislikes": 7.097560975609756,
+            "avg_comments": 16.121951219512194
+        },
+        "Electrical - Switched Mode Power Conversion": {
+            "avg_views": 13318.925,
+            "avg_likes": 58.5,
+            "avg_dislikes": 1.625,
+            "avg_comments": 4.7
+        },
+        "Computer-Design Verification & Test of Digital VLSI Circuits": {
+            "avg_views": 7790.659090909091,
+            "avg_likes": 23.0,
+            "avg_dislikes": 5.2272727272727275,
+            "avg_comments": 3.840909090909091
+        },
+        "Mechanical - Vibration of Structures": {
+            "avg_views": 5137.1,
+            "avg_likes": 28.225,
+            "avg_dislikes": 1.45,
+            "avg_comments": 1.75
+        },
+        "Mathematics - Real Analysis": {
+            "avg_views": 32140.96153846154,
+            "avg_likes": 224.40384615384616,
+            "avg_dislikes": 7.576923076923077,
+            "avg_comments": 13.442307692307692
+        },
+        "Civil - Geosynthetics and Reinforced Soil Structures": {
+            "avg_views": 6271.375,
+            "avg_likes": 34.85,
+            "avg_dislikes": 0.975,
+            "avg_comments": 1.5
+        },
+        "Physics - Quantum Field Theory": {
+            "avg_views": 6990.736842105263,
+            "avg_likes": 40.71052631578947,
+            "avg_dislikes": 1.0789473684210527,
+            "avg_comments": 6.5
+        },
+        "Physics - Select/Special Topics in Atomic Physics": {
+            "avg_views": 5212.95,
+            "avg_likes": 29.675,
+            "avg_dislikes": 1.275,
+            "avg_comments": 1.925
+        },
+        "Mechanical - Processing of non metals": {
+            "avg_views": 9036.15,
+            "avg_likes": 68.075,
+            "avg_dislikes": 3.9,
+            "avg_comments": 5.275
+        },
+        "Aerospace - Optimal Control, Guidance and Estimation": {
+            "avg_views": 3751.225,
+            "avg_likes": 16.1,
+            "avg_dislikes": 1.375,
+            "avg_comments": 1.75
+        },
+        "Chemical - Advanced Mathematical Techniques in Chemical Engg": {
+            "avg_views": 4878.536585365854,
+            "avg_likes": 17.853658536585368,
+            "avg_dislikes": 0.9512195121951219,
+            "avg_comments": 0.8292682926829268
+        },
+        "Electrical - Advanced Control Systems": {
+            "avg_views": 4842.475,
+            "avg_likes": 10.475,
+            "avg_dislikes": 0.9,
+            "avg_comments": 0.425
+        },
+        "Textile - Theory of Yarn Structures": {
+            "avg_views": 1478.75,
+            "avg_likes": 5.45,
+            "avg_dislikes": 0.65,
+            "avg_comments": 0.3
+        },
+        "Ocean - Health,Safety and Environmental Management in Petroleum and Offshore Engineering": {
+            "avg_views": 4924.771428571428,
+            "avg_likes": 25.62857142857143,
+            "avg_dislikes": 0.9714285714285714,
+            "avg_comments": 1.2857142857142858
+        },
+        "Aerospace - Acoustic Instabilities in Aerospace Propulsion": {
+            "avg_views": 1826.0487804878048,
+            "avg_likes": 7.317073170731708,
+            "avg_dislikes": 0.34146341463414637,
+            "avg_comments": 0.34146341463414637
+        },
+        "Mechanical - Tribology": {
+            "avg_views": 10666.714285714286,
+            "avg_likes": 52.666666666666664,
+            "avg_dislikes": 2.880952380952381,
+            "avg_comments": 2.5476190476190474
+        },
+        "Ocean - Wave Hydrodynamics": {
+            "avg_views": 4072.76,
+            "avg_likes": 20.92,
+            "avg_dislikes": 1.04,
+            "avg_comments": 0.52
+        },
+        "Metallurgy - Advanced Metallurgical Thermodynamics": {
+            "avg_views": 17804.774193548386,
+            "avg_likes": 104.64516129032258,
+            "avg_dislikes": 2.3870967741935485,
+            "avg_comments": 6.129032258064516
+        },
+        "Computer - Logic for CS": {
+            "avg_views": 2853.948717948718,
+            "avg_likes": 7.564102564102564,
+            "avg_dislikes": 0.5128205128205128,
+            "avg_comments": 0.6923076923076923
+        },
+        "Humanities - Contemporary Literature": {
+            "avg_views": 2115.425,
+            "avg_likes": 11.075,
+            "avg_dislikes": 0.625,
+            "avg_comments": 1.075
+        },
+        "Electronics - Coding Theory": {
+            "avg_views": 13135.868421052632,
+            "avg_likes": 37.31578947368421,
+            "avg_dislikes": 2.210526315789474,
+            "avg_comments": 3.210526315789474
+        },
+        "Chemical - Computational Techniques": {
+            "avg_views": 6916.425,
+            "avg_likes": 32.575,
+            "avg_dislikes": 1.375,
+            "avg_comments": 1.475
+        },
+        "Computer - Performance Evaluation of Computer Systems": {
+            "avg_views": 6523.119047619048,
+            "avg_likes": 24.88095238095238,
+            "avg_dislikes": 4.309523809523809,
+            "avg_comments": 2.1904761904761907
+        },
+        "Humanities - History of Economic Theory": {
+            "avg_views": 3267.472222222222,
+            "avg_likes": 30.805555555555557,
+            "avg_dislikes": 0.75,
+            "avg_comments": 2.5277777777777777
+        },
+        "Civil-Water Resources Systems:Modeling Techniques & Analysis": {
+            "avg_views": 7673.375,
+            "avg_likes": 35.75,
+            "avg_dislikes": 1.95,
+            "avg_comments": 2.35
+        },
+        "Mathematics - Mathematical Logic": {
+            "avg_views": 2953.309523809524,
+            "avg_likes": 11.285714285714286,
+            "avg_dislikes": 0.8095238095238095,
+            "avg_comments": 1.119047619047619
+        },
+        "Electronics - VLSI Data Conversion Circuits": {
+            "avg_views": 5015.5,
+            "avg_likes": 16.95,
+            "avg_dislikes": 0.6333333333333333,
+            "avg_comments": 0.55
+        },
+        "Mechanical - Advanced Gas Dynamics": {
+            "avg_views": 12278.975,
+            "avg_likes": 42.7,
+            "avg_dislikes": 4.025,
+            "avg_comments": 3.825
+        },
+        "Electrical - High Voltage DC Transmission": {
+            "avg_views": 14577.108108108108,
+            "avg_likes": 49.945945945945944,
+            "avg_dislikes": 1.9189189189189189,
+            "avg_comments": 1.864864864864865
+        },
+        "Mathematics - Calculus of Variations and Integral Equations": {
+            "avg_views": 4664.125,
+            "avg_likes": 13.6,
+            "avg_dislikes": 1.075,
+            "avg_comments": 1.275
+        },
+        "Metallurgical - Science and Technology of Polymers": {
+            "avg_views": 2703.55,
+            "avg_likes": 13.425,
+            "avg_dislikes": 1.0,
+            "avg_comments": 0.425
+        },
+        "Metallurgical - Non-ferrous Extractive Metallurgy": {
+            "avg_views": 3839.046511627907,
+            "avg_likes": 18.046511627906977,
+            "avg_dislikes": 0.627906976744186,
+            "avg_comments": 0.813953488372093
+        },
+        "Mathematics - Applied Multivariate Analysis": {
+            "avg_views": 7319.931818181818,
+            "avg_likes": 26.25,
+            "avg_dislikes": 1.25,
+            "avg_comments": 2.0
+        },
+        "Electrical - Electrical Machines-I": {
+            "avg_views": 77122.05,
+            "avg_likes": 206.05,
+            "avg_dislikes": 15.675,
+            "avg_comments": 17.875
+        },
+        "Chemistry - Rate Processes": {
+            "avg_views": 3707.5,
+            "avg_likes": 22.775,
+            "avg_dislikes": 2.05,
+            "avg_comments": 1.4
+        },
+        "Metallurgy - Steel Making": {
+            "avg_views": 7273.190476190476,
+            "avg_likes": 27.904761904761905,
+            "avg_dislikes": 1.0476190476190477,
+            "avg_comments": 1.5952380952380953
+        },
+        "Chemical - Instability & Patterning of Thin Polymer Films": {
+            "avg_views": 4244.775,
+            "avg_likes": 28.45,
+            "avg_dislikes": 0.65,
+            "avg_comments": 2.45
+        },
+        "Physics - Electronics": {
+            "avg_views": 31843.02380952381,
+            "avg_likes": 149.5952380952381,
+            "avg_dislikes": 5.666666666666667,
+            "avg_comments": 9.976190476190476
+        },
+        "Chemistry - Organic Photochemistry and Pericyclic Reactions": {
+            "avg_views": 14200.975,
+            "avg_likes": 89.8,
+            "avg_dislikes": 4.275,
+            "avg_comments": 5.675
+        },
+        "Chemical - Process Control and Instrumentation": {
+            "avg_views": 24773.545454545456,
+            "avg_likes": 76.63636363636364,
+            "avg_dislikes": 3.3863636363636362,
+            "avg_comments": 4.5
+        },
+        "Metallurgical - Introduction to Biomaterials": {
+            "avg_views": 1246.6666666666667,
+            "avg_likes": 3.3846153846153846,
+            "avg_dislikes": 0.358974358974359,
+            "avg_comments": 0.23076923076923078
+        },
+        "Mechanical - Computer Aided Engineering Design": {
+            "avg_views": 3506.325,
+            "avg_likes": 7.55,
+            "avg_dislikes": 0.525,
+            "avg_comments": 0.525
+        },
+        "Aerospace - Flight Dynamics II (Stability)": {
+            "avg_views": 5903.390243902439,
+            "avg_likes": 21.463414634146343,
+            "avg_dislikes": 1.7317073170731707,
+            "avg_comments": 1.8048780487804879
+        },
+        "Civil - Finite Element Analysis": {
+            "avg_views": 6472.025,
+            "avg_likes": 14.925,
+            "avg_dislikes": 0.9,
+            "avg_comments": 0.575
+        },
+        "Mechanical - Advanced Machining Processes": {
+            "avg_views": 3926.323529411765,
+            "avg_likes": 8.735294117647058,
+            "avg_dislikes": 0.5882352941176471,
+            "avg_comments": 0.6176470588235294
+        },
+        "Aerospace - Aero elasticity": {
+            "avg_views": 3025.6923076923076,
+            "avg_likes": 12.26923076923077,
+            "avg_dislikes": 0.11538461538461539,
+            "avg_comments": 0.8461538461538461
+        },
+        "Computer - Numerical Optimization": {
+            "avg_views": 8747.170731707318,
+            "avg_likes": 31.902439024390244,
+            "avg_dislikes": 1.9268292682926829,
+            "avg_comments": 2.658536585365854
+        },
+        "Humanities - Game Theory and Economics": {
+            "avg_views": 2883.2,
+            "avg_likes": 9.4,
+            "avg_dislikes": 0.5,
+            "avg_comments": 0.95
+        },
+        "Mechanical - Biomicroelectromechanical systems": {
+            "avg_views": 381.39473684210526,
+            "avg_likes": 0.7105263157894737,
+            "avg_dislikes": 0.02631578947368421,
+            "avg_comments": 0.02631578947368421
+        },
+        "Ocean - Elements of Ocean Engineering": {
+            "avg_views": 2928.2448979591836,
+            "avg_likes": 13.448979591836734,
+            "avg_dislikes": 0.5918367346938775,
+            "avg_comments": 0.5510204081632653
+        },
+        "Aerospace-Introduction to Helicopter Aerodynamics & Dynamics": {
+            "avg_views": 7804.153846153846,
+            "avg_likes": 48.65384615384615,
+            "avg_dislikes": 0.9230769230769231,
+            "avg_comments": 2.8461538461538463
+        },
+        "Management - Operations and Supply Chain Management": {
+            "avg_views": 39213.0,
+            "avg_likes": 176.09756097560975,
+            "avg_dislikes": 6.7073170731707314,
+            "avg_comments": 12.268292682926829
+        },
+        "Biochemistry - Essentials in Immunolgy": {
+            "avg_views": 3815.825,
+            "avg_likes": 19.5,
+            "avg_dislikes": 2.075,
+            "avg_comments": 1.05
+        },
+        "Electrical - Advanced Electric Drives": {
+            "avg_views": 6894.15,
+            "avg_likes": 17.95,
+            "avg_dislikes": 0.9,
+            "avg_comments": 1.9
+        },
+        "Civil - Advanced Hydrology": {
+            "avg_views": 6323.613636363636,
+            "avg_likes": 18.65909090909091,
+            "avg_dislikes": 0.7045454545454546,
+            "avg_comments": 0.8863636363636364
+        },
+        "Computer - Natural Language Processing": {
+            "avg_views": 9119.775,
+            "avg_likes": 30.175,
+            "avg_dislikes": 1.8,
+            "avg_comments": 2.425
+        },
+        "Civil - Structural Dynamics": {
+            "avg_views": 15975.078947368422,
+            "avg_likes": 57.6578947368421,
+            "avg_dislikes": 1.7894736842105263,
+            "avg_comments": 4.315789473684211
+        },
+        "Design - Ergonomics for beginners: Industrial design": {
+            "avg_views": 1165.225,
+            "avg_likes": 4.05,
+            "avg_dislikes": 0.3,
+            "avg_comments": 0.2
+        },
+        "Chemical - Particle Characterization": {
+            "avg_views": 3125.525,
+            "avg_likes": 16.175,
+            "avg_dislikes": 0.575,
+            "avg_comments": 0.5
+        },
+        "Electrical - An Introduction to Electronics System Packaging": {
+            "avg_views": 3928.690476190476,
+            "avg_likes": 18.904761904761905,
+            "avg_dislikes": 0.6666666666666666,
+            "avg_comments": 0.8571428571428571
+        },
+        "Chemical - Computational Fluid Dynamics": {
+            "avg_views": 8993.234042553191,
+            "avg_likes": 38.97872340425532,
+            "avg_dislikes": 1.5957446808510638,
+            "avg_comments": 3.021276595744681
+        },
+        "Material Science - Electroceramics": {
+            "avg_views": 618.95,
+            "avg_likes": 2.15,
+            "avg_dislikes": 0.025,
+            "avg_comments": 0.025
+        },
+        "Aerospace - Instability and Transition of Fluid Flows": {
+            "avg_views": 1722.7692307692307,
+            "avg_likes": 8.153846153846153,
+            "avg_dislikes": 0.28205128205128205,
+            "avg_comments": 0.6153846153846154
+        },
+        "Computer - Computational Geometry": {
+            "avg_views": 4981.725,
+            "avg_likes": 20.525,
+            "avg_dislikes": 1.825,
+            "avg_comments": 1.45
+        },
+        "Chemical - Mass Transfer II": {
+            "avg_views": 10996.225,
+            "avg_likes": 34.85,
+            "avg_dislikes": 1.375,
+            "avg_comments": 3.325
+        },
+        "Civil - Probability Methods in Civil Engineering": {
+            "avg_views": 3369.9,
+            "avg_likes": 12.7,
+            "avg_dislikes": 1.125,
+            "avg_comments": 0.95
+        },
+        "Computer - Low Power VLSI Circuits & Systems": {
+            "avg_views": 12141.95,
+            "avg_likes": 44.275,
+            "avg_dislikes": 3.05,
+            "avg_comments": 2.125
+        },
+        "Chemical - Fundamentals of Transport Processes": {
+            "avg_views": 4197.5,
+            "avg_likes": 14.75,
+            "avg_dislikes": 0.45,
+            "avg_comments": 1.125
+        },
+        "Mathematics - Functional Analysis": {
+            "avg_views": 22280.075,
+            "avg_likes": 117.475,
+            "avg_dislikes": 6.55,
+            "avg_comments": 7.475
+        },
+        "Mathematics - Advanced Matrix Theory and Linear Algebra for Engineers": {
+            "avg_views": 7031.325,
+            "avg_likes": 27.125,
+            "avg_dislikes": 0.625,
+            "avg_comments": 2.725
+        },
+        "Mechanical - Rocket Propulsion": {
+            "avg_views": 11727.8,
+            "avg_likes": 98.775,
+            "avg_dislikes": 2.075,
+            "avg_comments": 6.85
+        },
+        "Civil - Stochastic Structural Dynamics": {
+            "avg_views": 1538.0,
+            "avg_likes": 4.1,
+            "avg_dislikes": 0.225,
+            "avg_comments": 0.175
+        },
+        "Management - Econometric Modelling": {
+            "avg_views": 3778.225,
+            "avg_likes": 13.35,
+            "avg_dislikes": 1.725,
+            "avg_comments": 1.725
+        },
+        "Computer - Graph Theory": {
+            "avg_views": 6718.05,
+            "avg_likes": 15.775,
+            "avg_dislikes": 3.3,
+            "avg_comments": 1.675
+        },
+        "Computer - Cryptography and Network Security": {
+            "avg_views": 20038.975609756097,
+            "avg_likes": 41.53658536585366,
+            "avg_dislikes": 4.463414634146342,
+            "avg_comments": 3.5365853658536586
+        },
+        "Electrical - Error Correcting Codes": {
+            "avg_views": 5866.452380952381,
+            "avg_likes": 13.19047619047619,
+            "avg_dislikes": 1.6666666666666667,
+            "avg_comments": 1.2619047619047619
+        },
+        "Electronics - Circuits for Analog System Design": {
+            "avg_views": 9808.5,
+            "avg_likes": 29.2,
+            "avg_dislikes": 3.25,
+            "avg_comments": 2.25
+        },
+        "Chemical - Modern Instrumental Methods of Analysis": {
+            "avg_views": 5473.46511627907,
+            "avg_likes": 21.837209302325583,
+            "avg_dislikes": 2.4186046511627906,
+            "avg_comments": 1.0930232558139534
+        },
+        "Physics - Special Topics in Classical Mechanics": {
+            "avg_views": 3588.6,
+            "avg_likes": 18.2,
+            "avg_dislikes": 0.6,
+            "avg_comments": 1.175
+        },
+        "Physics - Quantum Electronics": {
+            "avg_views": 5424.142857142857,
+            "avg_likes": 23.071428571428573,
+            "avg_dislikes": 0.5238095238095238,
+            "avg_comments": 1.2142857142857142
+        },
+        "Management -  Security Analysis and Portfolio Management": {
+            "avg_views": 6467.225,
+            "avg_likes": 22.325,
+            "avg_dislikes": 2.575,
+            "avg_comments": 1.575
+        },
+        "Biotechnology - Thermodynamics": {
+            "avg_views": 1567.775,
+            "avg_likes": 5.675,
+            "avg_dislikes": 0.825,
+            "avg_comments": 0.3
+        },
+        "Management - Organization Management": {
+            "avg_views": 3083.275,
+            "avg_likes": 16.375,
+            "avg_dislikes": 0.725,
+            "avg_comments": 4.05
+        },
+        "Chemical - Novel Separation Processes": {
+            "avg_views": 3738.1951219512193,
+            "avg_likes": 15.341463414634147,
+            "avg_dislikes": 0.6585365853658537,
+            "avg_comments": 1.0
+        },
+        "Management - Strategic Management": {
+            "avg_views": 3903.3888888888887,
+            "avg_likes": 8.86111111111111,
+            "avg_dislikes": 1.1666666666666667,
+            "avg_comments": 0.75
+        },
+        "Mechanical - Engineering Fracture Mechanics": {
+            "avg_views": 14039.365853658537,
+            "avg_likes": 49.707317073170735,
+            "avg_dislikes": 2.2195121951219514,
+            "avg_comments": 3.1219512195121952
+        },
+        "Ocean - Hydrostatics and Stability": {
+            "avg_views": 3889.4,
+            "avg_likes": 12.9,
+            "avg_dislikes": 1.425,
+            "avg_comments": 1.2
+        },
+        "Core - Quantum Mechanics and Applications": {
+            "avg_views": 24241.119047619046,
+            "avg_likes": 179.57142857142858,
+            "avg_dislikes": 4.928571428571429,
+            "avg_comments": 12.30952380952381
+        },
+        "Civil - Stochastic Hydrology": {
+            "avg_views": 7419.1,
+            "avg_likes": 37.575,
+            "avg_dislikes": 1.0,
+            "avg_comments": 4.45
+        },
+        "Civil - Urban transportation planning": {
+            "avg_views": 4929.0,
+            "avg_likes": 22.325,
+            "avg_dislikes": 1.075,
+            "avg_comments": 1.325
+        },
+        "Mechanical- Conduction and Radiation": {
+            "avg_views": 10707.630434782608,
+            "avg_likes": 56.52173913043478,
+            "avg_dislikes": 3.0434782608695654,
+            "avg_comments": 3.5217391304347827
+        },
+        "Electrical - Signals and System": {
+            "avg_views": 18511.133333333335,
+            "avg_likes": 43.733333333333334,
+            "avg_dislikes": 2.311111111111111,
+            "avg_comments": 3.8666666666666667
+        },
+        "Mechanical - Computational Fluid Dynamics": {
+            "avg_views": 31526.302325581397,
+            "avg_likes": 124.88372093023256,
+            "avg_dislikes": 3.4186046511627906,
+            "avg_comments": 7.558139534883721
+        },
+        "Metallurgy-Materials and Energy Balance": {
+            "avg_views": 6744.425,
+            "avg_likes": 40.1,
+            "avg_dislikes": 1.65,
+            "avg_comments": 1.475
+        },
+        "Humanities-Population and Society": {
+            "avg_views": 2500.948717948718,
+            "avg_likes": 19.897435897435898,
+            "avg_dislikes": 0.717948717948718,
+            "avg_comments": 1.0769230769230769
+        },
+        "Aerospace - Advanced Control System Design for Aerospace Vehicles": {
+            "avg_views": 9100.0,
+            "avg_likes": 27.95,
+            "avg_dislikes": 3.275,
+            "avg_comments": 2.475
+        },
+        "Metallurgy - Fuels Refractory and Furnaces": {
+            "avg_views": 4157.625,
+            "avg_likes": 22.025,
+            "avg_dislikes": 1.525,
+            "avg_comments": 0.925
+        },
+        "Mathematics - Linear programming and Extensions": {
+            "avg_views": 7213.5,
+            "avg_likes": 19.275,
+            "avg_dislikes": 1.9,
+            "avg_comments": 1.475
+        },
+        "Civil - Advanced Structural Analysis": {
+            "avg_views": 20206.60975609756,
+            "avg_likes": 66.39024390243902,
+            "avg_dislikes": 2.658536585365854,
+            "avg_comments": 2.5609756097560976
+        },
+        "Management - Six Sigma": {
+            "avg_views": 23650.175,
+            "avg_likes": 102.375,
+            "avg_dislikes": 3.725,
+            "avg_comments": 7.875
+        },
+        "Mechanical - Design and Optimization of Energy Systems": {
+            "avg_views": 18999.6,
+            "avg_likes": 69.575,
+            "avg_dislikes": 4.25,
+            "avg_comments": 5.925
+        },
+        "Mechanical - Experimental Stress Analysis": {
+            "avg_views": 4071.0731707317073,
+            "avg_likes": 16.926829268292682,
+            "avg_dislikes": 0.8292682926829268,
+            "avg_comments": 1.3658536585365855
+        },
+        "Computer  - Theory of Automata, Formal Languages and Computation": {
+            "avg_views": 44832.73809523809,
+            "avg_likes": 128.0952380952381,
+            "avg_dislikes": 7.023809523809524,
+            "avg_comments": 13.761904761904763
+        },
+        "Biochemistry-Eukaryotic Gene Expression": {
+            "avg_views": 5898.925,
+            "avg_likes": 33.55,
+            "avg_dislikes": 1.725,
+            "avg_comments": 3.35
+        },
+        "Chemical-Biochemical Engineering": {
+            "avg_views": 3307.35,
+            "avg_likes": 13.375,
+            "avg_dislikes": 0.675,
+            "avg_comments": 0.825
+        },
+        "Metallurgical-Physics of Materials": {
+            "avg_views": 35121.475,
+            "avg_likes": 261.725,
+            "avg_dislikes": 10.025,
+            "avg_comments": 20.0
+        },
+        "Computer Science-Real-Time Systems": {
+            "avg_views": 8021.9,
+            "avg_likes": 18.65,
+            "avg_dislikes": 2.725,
+            "avg_comments": 1.4
+        },
+        "Computer Science - High Performance Computing": {
+            "avg_views": 13046.025,
+            "avg_likes": 70.05,
+            "avg_dislikes": 1.925,
+            "avg_comments": 5.675
+        },
+        "Electrical - Information Theory and Coding": {
+            "avg_views": 12844.951219512195,
+            "avg_likes": 31.75609756097561,
+            "avg_dislikes": 3.6097560975609757,
+            "avg_comments": 2.4390243902439024
+        },
+        "Aerospace - Foundation of Scientific Computing": {
+            "avg_views": 1153.1052631578948,
+            "avg_likes": 3.5,
+            "avg_dislikes": 0.10526315789473684,
+            "avg_comments": 0.13157894736842105
+        },
+        "Core - Probability and Statistics": {
+            "avg_views": 21738.375,
+            "avg_likes": 63.375,
+            "avg_dislikes": 3.75,
+            "avg_comments": 5.675
+        },
+        "Ocean - Seakeeping & Manoeuvring": {
+            "avg_views": 2486.1,
+            "avg_likes": 12.825,
+            "avg_dislikes": 0.45,
+            "avg_comments": 0.525
+        },
+        "Chemical-Chemical Reaction Engineering": {
+            "avg_views": 7693.9,
+            "avg_likes": 18.475,
+            "avg_dislikes": 1.25,
+            "avg_comments": 0.975
+        },
+        "Ocean - Marine Construction and Welding": {
+            "avg_views": 9940.780487804877,
+            "avg_likes": 60.0,
+            "avg_dislikes": 2.073170731707317,
+            "avg_comments": 3.8292682926829267
+        },
+        "Electrical - Power System Dynamics": {
+            "avg_views": 16591.075,
+            "avg_likes": 55.45,
+            "avg_dislikes": 3.2,
+            "avg_comments": 3.3
+        },
+        "Core - Applied Mechanics": {
+            "avg_views": 11583.5625,
+            "avg_likes": 31.9375,
+            "avg_dislikes": 4.125,
+            "avg_comments": 2.25
+        },
+        "Electrical - Control Engineering_Prof. Gopal": {
+            "avg_views": 64058.78048780488,
+            "avg_likes": 206.0,
+            "avg_dislikes": 5.926829268292683,
+            "avg_comments": 17.29268292682927
+        },
+        "Core - Numerical Methods and Computation": {
+            "avg_views": 11744.09756097561,
+            "avg_likes": 32.707317073170735,
+            "avg_dislikes": 1.5365853658536586,
+            "avg_comments": 1.975609756097561
+        },
+        "Core - Management Science": {
+            "avg_views": 2766.1794871794873,
+            "avg_likes": 6.384615384615385,
+            "avg_dislikes": 0.2564102564102564,
+            "avg_comments": 0.38461538461538464
+        },
+        "Mechanical - Advanced Materials and Processes": {
+            "avg_views": 8518.73076923077,
+            "avg_likes": 28.576923076923077,
+            "avg_dislikes": 1.1153846153846154,
+            "avg_comments": 2.1923076923076925
+        },
+        "Core - Human Resource Management-I": {
+            "avg_views": 26781.454545454544,
+            "avg_likes": 106.13636363636364,
+            "avg_dislikes": 6.409090909090909,
+            "avg_comments": 5.7272727272727275
+        },
+        "Core - Strategic Management": {
+            "avg_views": 4377.272727272727,
+            "avg_likes": 9.545454545454545,
+            "avg_dislikes": 0.2727272727272727,
+            "avg_comments": 0.36363636363636365
+        },
+        "Core - Management Information System": {
+            "avg_views": 23778.41379310345,
+            "avg_likes": 45.758620689655174,
+            "avg_dislikes": 5.758620689655173,
+            "avg_comments": 3.689655172413793
+        },
+        "Core - Leadership": {
+            "avg_views": 9534.538461538461,
+            "avg_likes": 29.692307692307693,
+            "avg_dislikes": 1.8461538461538463,
+            "avg_comments": 2.923076923076923
+        },
+        "Civil - Design of Reinforced Concrete Structures": {
+            "avg_views": 200481.9,
+            "avg_likes": 724.9,
+            "avg_dislikes": 43.3,
+            "avg_comments": 42.8
+        },
+        "Computer Sc - Programming and Data Structure": {
+            "avg_views": 112309.4375,
+            "avg_likes": 258.6875,
+            "avg_dislikes": 13.46875,
+            "avg_comments": 28.34375
+        },
+        "Computer Science - Electronic Design and Automation": {
+            "avg_views": 24734.428571428572,
+            "avg_likes": 69.54285714285714,
+            "avg_dislikes": 2.8285714285714287,
+            "avg_comments": 5.542857142857143
+        },
+        "Mechanical - Mechanical Vibrations": {
+            "avg_views": 19724.675,
+            "avg_likes": 39.9,
+            "avg_dislikes": 4.45,
+            "avg_comments": 4.1
+        },
+        "Mechanical - Engineering Mechanics - Dr.G.Saravana Kumar": {
+            "avg_views": 17561.225,
+            "avg_likes": 35.55,
+            "avg_dislikes": 5.2,
+            "avg_comments": 3.0
+        },
+        "Ocean - Applied Thermodynamics for Marine Systems": {
+            "avg_views": 64869.88888888889,
+            "avg_likes": 223.96296296296296,
+            "avg_dislikes": 10.814814814814815,
+            "avg_comments": 18.37037037037037
+        },
+        "Mechanical - Basic Thermodynamics": {
+            "avg_views": 149631.9375,
+            "avg_likes": 561.0,
+            "avg_dislikes": 21.6875,
+            "avg_comments": 49.15625
+        },
+        "Electrical - Dynamics of Physical System": {
+            "avg_views": 22438.823529411766,
+            "avg_likes": 101.44117647058823,
+            "avg_dislikes": 4.852941176470588,
+            "avg_comments": 5.794117647058823
+        },
+        "Mechanical - Advanced Operations Research": {
+            "avg_views": 108463.58974358975,
+            "avg_likes": 396.15384615384613,
+            "avg_dislikes": 15.794871794871796,
+            "avg_comments": 34.12820512820513
+        },
+        "Electrical - Digital Signal Processing": {
+            "avg_views": 27134.685714285715,
+            "avg_likes": 46.51428571428571,
+            "avg_dislikes": 4.685714285714286,
+            "avg_comments": 4.2
+        },
+        "Electrical -  Estimation of Signals and Systems": {
+            "avg_views": 17636.8,
+            "avg_likes": 41.7,
+            "avg_dislikes": 2.566666666666667,
+            "avg_comments": 3.6333333333333333
+        },
+        "Electronics - Digital Computer Organization": {
+            "avg_views": 23907.571428571428,
+            "avg_likes": 64.67857142857143,
+            "avg_dislikes": 4.285714285714286,
+            "avg_comments": 5.785714285714286
+        },
+        "Electronics - Neural Networks and Applications": {
+            "avg_views": 47496.27027027027,
+            "avg_likes": 150.24324324324326,
+            "avg_dislikes": 7.783783783783784,
+            "avg_comments": 16.72972972972973
+        },
+        "Mining - Fundamentals of Environmental Pollution and Control": {
+            "avg_views": 5567.111111111111,
+            "avg_likes": 23.13888888888889,
+            "avg_dislikes": 2.4166666666666665,
+            "avg_comments": 0.7777777777777778
+        },
+        "Ocean - Strength and Vibration of Marine Structures": {
+            "avg_views": 11308.222222222223,
+            "avg_likes": 38.52777777777778,
+            "avg_dislikes": 2.7222222222222223,
+            "avg_comments": 2.0555555555555554
+        },
+        "Mechanical - Fundamentals of Operations Research": {
+            "avg_views": 223591.0,
+            "avg_likes": 764.4090909090909,
+            "avg_dislikes": 32.63636363636363,
+            "avg_comments": 82.31818181818181
+        },
+        "Mechanical - Strength of Materials": {
+            "avg_views": 31683.575,
+            "avg_likes": 48.075,
+            "avg_dislikes": 5.45,
+            "avg_comments": 5.4
+        },
+        "Civil - Foundation Engineering": {
+            "avg_views": 21982.45,
+            "avg_likes": 65.25,
+            "avg_dislikes": 4.05,
+            "avg_comments": 5.425
+        },
+        "Civil  - Transportation Engineering II": {
+            "avg_views": 18957.25,
+            "avg_likes": 86.825,
+            "avg_dislikes": 6.425,
+            "avg_comments": 3.475
+        },
+        "Mechanical - Manufacturing Processes - I": {
+            "avg_views": 39146.625,
+            "avg_likes": 107.975,
+            "avg_dislikes": 6.3,
+            "avg_comments": 10.0
+        },
+        "Mechanical - Industrial Engineering": {
+            "avg_views": 22642.925,
+            "avg_likes": 74.725,
+            "avg_dislikes": 4.45,
+            "avg_comments": 4.75
+        },
+        "Civil - Modern Surveying Techniques": {
+            "avg_views": 9438.525,
+            "avg_likes": 24.05,
+            "avg_dislikes": 3.125,
+            "avg_comments": 2.275
+        },
+        "Civil - Hydraulics": {
+            "avg_views": 25623.725,
+            "avg_likes": 106.95,
+            "avg_dislikes": 4.525,
+            "avg_comments": 6.025
+        },
+        "Core - Mathematics - III": {
+            "avg_views": 25450.51282051282,
+            "avg_likes": 53.94871794871795,
+            "avg_dislikes": 4.589743589743589,
+            "avg_comments": 5.230769230769231
+        },
+        "Core -  Materials Science": {
+            "avg_views": 32922.77142857143,
+            "avg_likes": 50.25714285714286,
+            "avg_dislikes": 8.685714285714285,
+            "avg_comments": 6.942857142857143
+        },
+        "Electrical - Communication Engineering": {
+            "avg_views": 61908.78048780488,
+            "avg_likes": 153.29268292682926,
+            "avg_dislikes": 9.536585365853659,
+            "avg_comments": 12.902439024390244
+        },
+        "Mechanical - Computer Aided Design": {
+            "avg_views": 37149.8431372549,
+            "avg_likes": 126.52941176470588,
+            "avg_dislikes": 9.607843137254902,
+            "avg_comments": 8.411764705882353
+        },
+        "Core - Mathematics - II": {
+            "avg_views": 23177.21052631579,
+            "avg_likes": 56.28947368421053,
+            "avg_dislikes": 3.5789473684210527,
+            "avg_comments": 5.921052631578948
+        },
+        "Mechanical - Advanced Finite Elements Analysis": {
+            "avg_views": 12697.866666666667,
+            "avg_likes": 22.733333333333334,
+            "avg_dislikes": 2.3333333333333335,
+            "avg_comments": 2.8666666666666667
+        },
+        "Core - Physics I - Oscillations and Waves": {
+            "avg_views": 28215.590909090908,
+            "avg_likes": 93.36363636363636,
+            "avg_dislikes": 6.409090909090909,
+            "avg_comments": 7.795454545454546
+        },
+        "Electronics - VLSI Design": {
+            "avg_views": 51152.0,
+            "avg_likes": 193.725,
+            "avg_dislikes": 7.825,
+            "avg_comments": 13.675
+        },
+        "Electronics - Adaptive Signal Processing": {
+            "avg_views": 12393.80487804878,
+            "avg_likes": 18.4390243902439,
+            "avg_dislikes": 4.609756097560975,
+            "avg_comments": 3.5609756097560976
+        },
+        "Core - Classical Physics": {
+            "avg_views": 68035.15789473684,
+            "avg_likes": 422.2105263157895,
+            "avg_dislikes": 10.578947368421053,
+            "avg_comments": 33.921052631578945
+        },
+        "Electrical - Chaos, Fractals and Dynamical Systems": {
+            "avg_views": 13779.65,
+            "avg_likes": 55.275,
+            "avg_dislikes": 1.95,
+            "avg_comments": 4.825
+        },
+        "Core - Quantum Physics": {
+            "avg_views": 92312.09677419355,
+            "avg_likes": 494.51612903225805,
+            "avg_dislikes": 14.96774193548387,
+            "avg_comments": 46.774193548387096
+        },
+        "Mechanical - Heat and Mass Transfer": {
+            "avg_views": 106719.08571428571,
+            "avg_likes": 341.22857142857146,
+            "avg_dislikes": 12.228571428571428,
+            "avg_comments": 26.742857142857144
+        },
+        "Biochemical Engineering - Enzyme Science and Engineering": {
+            "avg_views": 7625.25,
+            "avg_likes": 17.321428571428573,
+            "avg_dislikes": 1.3928571428571428,
+            "avg_comments": 1.1428571428571428
+        },
+        "Electronics - Digital Systems Design": {
+            "avg_views": 23899.4,
+            "avg_likes": 31.85,
+            "avg_dislikes": 5.5,
+            "avg_comments": 3.5
+        },
+        "Civil - Soil Mechanics": {
+            "avg_views": 38239.12280701754,
+            "avg_likes": 87.52631578947368,
+            "avg_dislikes": 5.2631578947368425,
+            "avg_comments": 6.526315789473684
+        },
+        "Electronics - Broadband Networks": {
+            "avg_views": 21213.96875,
+            "avg_likes": 48.25,
+            "avg_dislikes": 3.59375,
+            "avg_comments": 5.25
+        },
+        "Electrical - Energy Resources and Technology": {
+            "avg_views": 45863.425,
+            "avg_likes": 145.975,
+            "avg_dislikes": 9.175,
+            "avg_comments": 11.85
+        },
+        "Electrical - Illlumination Engineering": {
+            "avg_views": 10836.9,
+            "avg_likes": 29.05,
+            "avg_dislikes": 3.35,
+            "avg_comments": 1.5
+        },
+        "Mechanical - Manufacturing Processes II": {
+            "avg_views": 47243.634146341465,
+            "avg_likes": 146.46341463414635,
+            "avg_dislikes": 7.048780487804878,
+            "avg_comments": 7.219512195121951
+        },
+        "Computer Sc - Data Communication": {
+            "avg_views": 62179.46341463415,
+            "avg_likes": 155.2439024390244,
+            "avg_dislikes": 10.439024390243903,
+            "avg_comments": 10.804878048780488
+        },
+        "Electronics - Digital Image Processing": {
+            "avg_views": 67425.375,
+            "avg_likes": 143.125,
+            "avg_dislikes": 10.625,
+            "avg_comments": 11.6
+        },
+        "Electronics - Digital Voice and Picture Communication": {
+            "avg_views": 28085.3,
+            "avg_likes": 77.15,
+            "avg_dislikes": 4.15,
+            "avg_comments": 7.775
+        },
+        "Computer Sc - Artificial Intelligence": {
+            "avg_views": 39275.3,
+            "avg_likes": 91.4,
+            "avg_dislikes": 7.25,
+            "avg_comments": 10.45
+        },
+        "Electronics - Basic Electronics - Dr.Chitralekha Mahanta": {
+            "avg_views": 83743.725,
+            "avg_likes": 180.075,
+            "avg_dislikes": 15.35,
+            "avg_comments": 15.075
+        },
+        "Computer Sc - Software Engineering": {
+            "avg_views": 69469.97435897436,
+            "avg_likes": 115.51282051282051,
+            "avg_dislikes": 11.923076923076923,
+            "avg_comments": 12.692307692307692
+        },
+        "Computer Sc - Computer Architecture": {
+            "avg_views": 60420.10526315789,
+            "avg_likes": 128.3684210526316,
+            "avg_dislikes": 8.973684210526315,
+            "avg_comments": 11.368421052631579
+        },
+        "Computer Sc - Data Structures and Algorithms": {
+            "avg_views": 169451.61111111112,
+            "avg_likes": 441.1666666666667,
+            "avg_dislikes": 19.72222222222222,
+            "avg_comments": 42.25
+        },
+        "Computer Sc - Principles of Programming Languages": {
+            "avg_views": 23126.85,
+            "avg_likes": 35.95,
+            "avg_dislikes": 4.675,
+            "avg_comments": 4.8
+        },
+        "Mechanical - Principles of Mechanical Measurements": {
+            "avg_views": 9195.038461538461,
+            "avg_likes": 21.923076923076923,
+            "avg_dislikes": 1.8461538461538463,
+            "avg_comments": 2.4615384615384617
+        },
+        "Computer Sc - Database Management System": {
+            "avg_views": 86333.79069767441,
+            "avg_likes": 138.72093023255815,
+            "avg_dislikes": 17.837209302325583,
+            "avg_comments": 19.74418604651163
+        },
+        "Electronics - Electronics For Analog Signal Processing - II": {
+            "avg_views": 26535.076923076922,
+            "avg_likes": 50.56410256410256,
+            "avg_dislikes": 3.948717948717949,
+            "avg_comments": 4.538461538461538
+        },
+        "Electronics - Electronics For Analog Signal Processing - I": {
+            "avg_views": 98496.44736842105,
+            "avg_likes": 269.42105263157896,
+            "avg_dislikes": 13.842105263157896,
+            "avg_comments": 24.63157894736842
+        },
+        "Electrical - Analog ICs": {
+            "avg_views": 33264.892857142855,
+            "avg_likes": 76.71428571428571,
+            "avg_dislikes": 4.464285714285714,
+            "avg_comments": 5.357142857142857
+        },
+        "Civil - Mechanics of Solids": {
+            "avg_views": 66337.2564102564,
+            "avg_likes": 245.66666666666666,
+            "avg_dislikes": 12.512820512820513,
+            "avg_comments": 18.871794871794872
+        },
+        "Electronics - Digital Communication": {
+            "avg_views": 76000.1875,
+            "avg_likes": 138.96875,
+            "avg_dislikes": 12.8125,
+            "avg_comments": 13.03125
+        },
+        "Computer Sc - Design & Analysis of Algorithms": {
+            "avg_views": 65117.470588235294,
+            "avg_likes": 168.14705882352942,
+            "avg_dislikes": 7.705882352941177,
+            "avg_comments": 19.88235294117647
+        },
+        "Electrical - Control Engineering": {
+            "avg_views": 28390.489361702126,
+            "avg_likes": 32.61702127659574,
+            "avg_dislikes": 3.9361702127659575,
+            "avg_comments": 3.0
+        },
+        "Mechanical - Design of Machine Elements": {
+            "avg_views": 68801.575,
+            "avg_likes": 182.95,
+            "avg_dislikes": 12.3,
+            "avg_comments": 11.45
+        },
+        "Electrical - Industrial Instrumentation": {
+            "avg_views": 40493.95,
+            "avg_likes": 90.5,
+            "avg_dislikes": 8.275,
+            "avg_comments": 6.45
+        },
+        "Computer Sc - Internet Technologies": {
+            "avg_views": 89400.325,
+            "avg_likes": 194.8,
+            "avg_dislikes": 10.55,
+            "avg_comments": 20.25
+        },
+        "Electrical - Power System Analysis": {
+            "avg_views": 66996.725,
+            "avg_likes": 152.8,
+            "avg_dislikes": 10.025,
+            "avg_comments": 11.25
+        },
+        "Civil - Building Materials and Construction": {
+            "avg_views": 36657.365853658535,
+            "avg_likes": 129.4878048780488,
+            "avg_dislikes": 7.024390243902439,
+            "avg_comments": 27.48780487804878
+        },
+        "Electrical - Digital Integrated Circuits": {
+            "avg_views": 50358.925,
+            "avg_likes": 210.55,
+            "avg_dislikes": 11.35,
+            "avg_comments": 14.875
+        },
+        "Electrical - Power Electronics": {
+            "avg_views": 51735.767441860466,
+            "avg_likes": 96.48837209302326,
+            "avg_dislikes": 6.5813953488372094,
+            "avg_comments": 9.930232558139535
+        },
+        "Electronics - Probability & Random Variables": {
+            "avg_views": 32306.85,
+            "avg_likes": 48.2,
+            "avg_dislikes": 7.575,
+            "avg_comments": 6.175
+        },
+        "Civil - Engineering Geology": {
+            "avg_views": 29584.9,
+            "avg_likes": 81.275,
+            "avg_dislikes": 5.6,
+            "avg_comments": 4.8
+        },
+        "Civil - Introduction to Transportation Engineering": {
+            "avg_views": 38628.58536585366,
+            "avg_likes": 128.2439024390244,
+            "avg_dislikes": 9.121951219512194,
+            "avg_comments": 6.414634146341464
+        },
+        "Civil - Strength of Materials - Prof. S.K.Bhattacharyya": {
+            "avg_views": 105667.525,
+            "avg_likes": 288.675,
+            "avg_dislikes": 13.575,
+            "avg_comments": 20.675
+        },
+        "Mechanical - Robotics": {
+            "avg_views": 21094.75,
+            "avg_likes": 38.9,
+            "avg_dislikes": 2.7,
+            "avg_comments": 3.65
+        },
+        "Computer Sc - Computer Organization": {
+            "avg_views": 105325.48484848485,
+            "avg_likes": 306.1515151515151,
+            "avg_dislikes": 13.93939393939394,
+            "avg_comments": 30.939393939393938
+        },
+        "Electrical - Networks and Systems": {
+            "avg_views": 34701.46,
+            "avg_likes": 90.18,
+            "avg_dislikes": 4.5,
+            "avg_comments": 5.88
+        },
+        "Core Science - Engineering Physics II": {
+            "avg_views": 11646.888888888889,
+            "avg_likes": 51.22222222222222,
+            "avg_dislikes": 0.5555555555555556,
+            "avg_comments": 1.6666666666666667
+        },
+        "Core Science - Engineering Mechanics": {
+            "avg_views": 52011.54838709677,
+            "avg_likes": 117.48387096774194,
+            "avg_dislikes": 6.741935483870968,
+            "avg_comments": 9.129032258064516
+        },
+        "Electrical - Industrial Automation and Control": {
+            "avg_views": 69659.575,
+            "avg_likes": 165.075,
+            "avg_dislikes": 11.6,
+            "avg_comments": 12.6
+        },
+        "Ocean - Performance of Marine Vehicles At Sea": {
+            "avg_views": 11477.275,
+            "avg_likes": 45.45,
+            "avg_dislikes": 1.425,
+            "avg_comments": 2.275
+        },
+        "Electrical - Networks, Signals and Systems": {
+            "avg_views": 53118.583333333336,
+            "avg_likes": 100.41666666666667,
+            "avg_dislikes": 8.083333333333334,
+            "avg_comments": 10.333333333333334
+        },
+        "Computer Sc - Computer Networks": {
+            "avg_views": 92299.1,
+            "avg_likes": 145.125,
+            "avg_dislikes": 11.35,
+            "avg_comments": 15.275
+        },
+        "Electronics - MEMS & Microsystems": {
+            "avg_views": 14157.0,
+            "avg_likes": 28.3125,
+            "avg_dislikes": 2.75,
+            "avg_comments": 1.96875
+        },
+        "Computer Sc - Artificial Intelligence - Prof. P. Dasgupta": {
+            "avg_views": 65181.46428571428,
+            "avg_likes": 158.32142857142858,
+            "avg_dislikes": 8.892857142857142,
+            "avg_comments": 18.25
+        },
+        "My Top Videos": {
+            "avg_views": 582194.6666666666,
+            "avg_likes": 1637.2222222222222,
+            "avg_dislikes": 98.11111111111111,
+            "avg_comments": 153.33333333333334
+        },
+        "Electrical - Circuit Theory": {
+            "avg_views": 40673.80392156863,
+            "avg_likes": 82.50980392156863,
+            "avg_dislikes": 4.019607843137255,
+            "avg_comments": 5.411764705882353
+        },
+        "Electronics - Digital Signal Processing": {
+            "avg_views": 86979.97674418605,
+            "avg_likes": 211.97674418604652,
+            "avg_dislikes": 8.720930232558139,
+            "avg_comments": 19.790697674418606
+        },
+        "Mechanical - Project and Production Management": {
+            "avg_views": 64673.243902439026,
+            "avg_likes": 185.73170731707316,
+            "avg_dislikes": 9.487804878048781,
+            "avg_comments": 13.097560975609756
+        },
+        "Electronics - Wireless Communication": {
+            "avg_views": 64052.8717948718,
+            "avg_likes": 122.3076923076923,
+            "avg_dislikes": 9.256410256410257,
+            "avg_comments": 8.923076923076923
+        },
+        "Electrical - Embedded Systems": {
+            "avg_views": 74094.86486486487,
+            "avg_likes": 160.75675675675674,
+            "avg_dislikes": 8.486486486486486,
+            "avg_comments": 10.64864864864865
+        },
+        "Core Science -Concept & Evolution of Management thought": {
+            "avg_views": 24355.375,
+            "avg_likes": 48.4,
+            "avg_dislikes": 5.0,
+            "avg_comments": 3.85
+        },
+        "Electrical - Industrial Drives - Power Electronics": {
+            "avg_views": 40380.27027027027,
+            "avg_likes": 63.21621621621622,
+            "avg_dislikes": 7.081081081081081,
+            "avg_comments": 5.837837837837838
+        },
+        "Electrical - Basic Electrical Technology": {
+            "avg_views": 200649.97435897434,
+            "avg_likes": 489.94871794871796,
+            "avg_dislikes": 24.94871794871795,
+            "avg_comments": 45.92307692307692
+        },
+        "Computer Sc - Systems Analysis and Design": {
+            "avg_views": 7823.9,
+            "avg_likes": 7.55,
+            "avg_dislikes": 0.75,
+            "avg_comments": 1.35
+        },
+        "Civil - Structural Analysis II": {
+            "avg_views": 56035.51282051282,
+            "avg_likes": 127.7948717948718,
+            "avg_dislikes": 7.641025641025641,
+            "avg_comments": 11.512820512820513
+        },
+        "Civil - Environmental Air Pollution": {
+            "avg_views": 16686.153846153848,
+            "avg_likes": 56.94871794871795,
+            "avg_dislikes": 4.923076923076923,
+            "avg_comments": 3.3076923076923075
+        },
+        "Civil - Surveying": {
+            "avg_views": 71342.0,
+            "avg_likes": 229.2,
+            "avg_dislikes": 9.975,
+            "avg_comments": 13.0
+        },
+        "Civil - Water Resources Engineering": {
+            "avg_views": 6549.0,
+            "avg_likes": 14.551724137931034,
+            "avg_dislikes": 1.206896551724138,
+            "avg_comments": 1.3448275862068966
+        },
+        "Electrical - Power Systems Operations and Control": {
+            "avg_views": 16191.228571428572,
+            "avg_likes": 27.771428571428572,
+            "avg_dislikes": 1.457142857142857,
+            "avg_comments": 1.8571428571428572
+        },
+        "Computer Sc - Introduction To Problem Solving & Programming": {
+            "avg_views": 13361.541666666666,
+            "avg_likes": 12.083333333333334,
+            "avg_dislikes": 1.875,
+            "avg_comments": 1.2083333333333333
+        },
+        "Core Science - Mathematics": {
+            "avg_views": 58697.625,
+            "avg_likes": 125.09375,
+            "avg_dislikes": 10.8125,
+            "avg_comments": 15.25
+        },
+        "Core Science - Biochemistry I": {
+            "avg_views": 105998.60714285714,
+            "avg_likes": 408.60714285714283,
+            "avg_dislikes": 15.642857142857142,
+            "avg_comments": 37.714285714285715
+        },
+        "Civil - Fluid Mechanics": {
+            "avg_views": 42848.833333333336,
+            "avg_likes": 65.07142857142857,
+            "avg_dislikes": 7.809523809523809,
+            "avg_comments": 7.785714285714286
+        },
+        "Core Science - Engineering Chemistry 1": {
+            "avg_views": 36806.8,
+            "avg_likes": 102.1,
+            "avg_dislikes": 5.3,
+            "avg_comments": 12.2
+        },
+        "Electrical - Power System Generation, Transmission and Distribution (Encapsulated from earlier Video)": {
+            "avg_views": 74715.22857142857,
+            "avg_likes": 270.34285714285716,
+            "avg_dislikes": 15.2,
+            "avg_comments": 14.628571428571428
+        },
+        "Mechanical - Finite Element Method": {
+            "avg_views": 18408.052631578947,
+            "avg_likes": 22.57894736842105,
+            "avg_dislikes": 1.1578947368421053,
+            "avg_comments": 1.9210526315789473
+        },
+        "Mechanical - Refrigeration and Airconditioning": {
+            "avg_views": 62069.239130434784,
+            "avg_likes": 141.41304347826087,
+            "avg_dislikes": 9.152173913043478,
+            "avg_comments": 10.869565217391305
+        },
+        "Computer Sc - Introduction to Computer Graphics": {
+            "avg_views": 18202.314285714285,
+            "avg_likes": 38.542857142857144,
+            "avg_dislikes": 3.257142857142857,
+            "avg_comments": 3.4857142857142858
+        },
+        "Mechanical - Advanced Strength of Materials": {
+            "avg_views": 26499.75,
+            "avg_likes": 71.175,
+            "avg_dislikes": 4.275,
+            "avg_comments": 6.1
+        },
+        "Core - Basic Electronics - Prof T.S.Natarajan": {
+            "avg_views": 169475.85,
+            "avg_likes": 424.025,
+            "avg_dislikes": 24.175,
+            "avg_comments": 46.325
+        },
+        "Mechanical - Kinematics of Machines": {
+            "avg_views": 67781.53846153847,
+            "avg_likes": 207.97435897435898,
+            "avg_dislikes": 7.717948717948718,
+            "avg_comments": 15.974358974358974
+        },
+        "Computer Sc - Computer Graphics": {
+            "avg_views": 52688.232558139534,
+            "avg_likes": 109.23255813953489,
+            "avg_dislikes": 9.069767441860465,
+            "avg_comments": 12.046511627906977
+        },
+        "Core Science - Numerical Methods and Programing": {
+            "avg_views": 49682.68421052631,
+            "avg_likes": 96.10526315789474,
+            "avg_dislikes": 9.131578947368421,
+            "avg_comments": 10.921052631578947
+        },
+        "Electrical - Intelligent Systems and Control": {
+            "avg_views": 19702.34375,
+            "avg_likes": 31.15625,
+            "avg_dislikes": 3.5,
+            "avg_comments": 3.71875
+        },
+        "Mechanical - Dynamics of Machines": {
+            "avg_views": 57693.25,
+            "avg_likes": 161.8181818181818,
+            "avg_dislikes": 8.477272727272727,
+            "avg_comments": 12.409090909090908
+        },
+        "Civil - Water & Wastewater Engineering": {
+            "avg_views": 0.0,
+            "avg_likes": 0.0,
+            "avg_dislikes": 0.0,
+            "avg_comments": 0.0
+        },
+        "Mechanical - Mechanical Measurements and Metrology": {
+            "avg_views": 13428.3,
+            "avg_likes": 20.38,
+            "avg_dislikes": 2.3,
+            "avg_comments": 0.0
+        },
+        "Electronics - Transmission Lines and EM Waves": {
+            "avg_views": 48298.15,
+            "avg_likes": 184.2,
+            "avg_dislikes": 5.683333333333334,
+            "avg_comments": 15.216666666666667
+        },
+        "Civil - Prestressed Concrete Structures": {
+            "avg_views": 0.0,
+            "avg_likes": 0.0,
+            "avg_dislikes": 0.0,
+            "avg_comments": 0.0
+        },
+        "Electronics - Digital VLSI System Design": {
+            "avg_views": 0.0,
+            "avg_likes": 0.0,
+            "avg_dislikes": 0.0,
+            "avg_comments": 0.0
+        },
+        "Electronics - Solid State Devices": {
+            "avg_views": 24464.04761904762,
+            "avg_likes": 89.33333333333333,
+            "avg_dislikes": 2.5,
+            "avg_comments": 8.69047619047619
+        },
+        "Electronics - Digital Circuits and Systems": {
+            "avg_views": 13695.125,
+            "avg_likes": 34.05,
+            "avg_dislikes": 1.6,
+            "avg_comments": 3.6
+        },
+        "Electrical - Electro Magnetic Fields": {
+            "avg_views": 2381.309523809524,
+            "avg_likes": 3.9761904761904763,
+            "avg_dislikes": 0.2619047619047619,
+            "avg_comments": 0.35714285714285715
+        },
+        "Electronics - High Speed Devices & Circuit": {
+            "avg_views": 453.2682926829268,
+            "avg_likes": 0.8292682926829268,
+            "avg_dislikes": 0.14634146341463414,
+            "avg_comments": 0.04878048780487805
+        },
+        "Computer Sc - Discrete Mathematical Structures": {
+            "avg_views": 0.0,
+            "avg_likes": 0.0,
+            "avg_dislikes": 0.0,
+            "avg_comments": 0.0
+        }
+    },
+    "MIT OpenCourseWare": {
+        "MIT 15.S08 FinTech: Shaping the Financial World, Spring 2020": {
+            "avg_views": 3185.5,
+            "avg_likes": 73.08333333333333,
+            "avg_dislikes": 1.4166666666666667,
+            "avg_comments": 4.25
+        },
+        "MIT RES.2-006 Girls Who Build Cameras, Summer 2016": {
+            "avg_views": 2267.6,
+            "avg_likes": 32.6,
+            "avg_dislikes": 4.5,
+            "avg_comments": 0.0
+        },
+        "MIT OLL: Getting up to Speed in Biology, Summer 2020": {
+            "avg_views": 1853.892857142857,
+            "avg_likes": 36.142857142857146,
+            "avg_dislikes": 0.35714285714285715,
+            "avg_comments": 2.0357142857142856
+        },
+        "MIT RES.EC-001 Exploring Fairness in Machine Learning, Spring 2020": {
+            "avg_views": 4169.888888888889,
+            "avg_likes": 65.66666666666667,
+            "avg_dislikes": 4.555555555555555,
+            "avg_comments": 8.88888888888889
+        },
+        "MIT 8.962 General Relativity, Spring 2020": {
+            "avg_views": 10182.304347826086,
+            "avg_likes": 201.08695652173913,
+            "avg_dislikes": 2.9565217391304346,
+            "avg_comments": 22.52173913043478
+        },
+        "MIT 14.01 Principles of Microeconomics, Fall 2018": {
+            "avg_views": 16700.69230769231,
+            "avg_likes": 354.6923076923077,
+            "avg_dislikes": 5.576923076923077,
+            "avg_comments": 23.23076923076923
+        },
+        "MIT RES.LL-005 Mathematics of Big Data and Machine Learning, IAP 2020": {
+            "avg_views": 16896.7,
+            "avg_likes": 336.5,
+            "avg_dislikes": 4.3,
+            "avg_comments": 15.2
+        },
+        "MIT A 2020 Vision of Linear Algebra, Spring 2020": {
+            "avg_views": 100999.16666666667,
+            "avg_likes": 3218.1666666666665,
+            "avg_dislikes": 26.5,
+            "avg_comments": 121.33333333333333
+        },
+        "MIT RES.ENV-003 EarthDNA's Climate 101, Fall 2019": {
+            "avg_views": 9619.0,
+            "avg_likes": 178.0,
+            "avg_dislikes": 22.5,
+            "avg_comments": 31.0
+        },
+        "MIT 18.217 Graph Theory and Additive Combinatorics, Fall 2019": {
+            "avg_views": 3274.423076923077,
+            "avg_likes": 50.26923076923077,
+            "avg_dislikes": 1.0,
+            "avg_comments": 4.0
+        },
+        "MIT 7.016 Introductory Biology, Fall 2018": {
+            "avg_views": 5236.314285714286,
+            "avg_likes": 104.65714285714286,
+            "avg_dislikes": 1.3428571428571427,
+            "avg_comments": 7.0285714285714285
+        },
+        "MIT 9.40 Introduction to Neural Computation, Spring 2018": {
+            "avg_views": 3205.75,
+            "avg_likes": 67.7,
+            "avg_dislikes": 1.2,
+            "avg_comments": 4.2
+        },
+        "MIT 6.S897 Machine Learning for Healthcare, Spring 2019": {
+            "avg_views": 1638.2,
+            "avg_likes": 26.24,
+            "avg_dislikes": 1.2,
+            "avg_comments": 2.0
+        },
+        "MIT 16.687 Private Pilot Ground School, IAP 2019": {
+            "avg_views": 8862.875,
+            "avg_likes": 158.375,
+            "avg_dislikes": 3.125,
+            "avg_comments": 9.125
+        },
+        "Chalk Radio Podcast": {
+            "avg_views": 11345.8,
+            "avg_likes": 178.6,
+            "avg_dislikes": 11.6,
+            "avg_comments": 11.333333333333334
+        },
+        "How To Speak by Patrick Winston": {
+            "avg_views": 2807173.0,
+            "avg_likes": 87846.0,
+            "avg_dislikes": 1887.0,
+            "avg_comments": 2965.0
+        },
+        "Drennan Research and Education Laboratory: Diversity Training": {
+            "avg_views": 6983.0,
+            "avg_likes": 70.5,
+            "avg_dislikes": 334.0,
+            "avg_comments": 0.0
+        },
+        "MIT 15.S12 Blockchain and Money, Fall 2018": {
+            "avg_views": 10895.391304347826,
+            "avg_likes": 193.82608695652175,
+            "avg_dislikes": 3.4347826086956523,
+            "avg_comments": 13.478260869565217
+        },
+        "MIT RES.8-007 Cosmic Origin of the Chemical Elements, Fall 2019": {
+            "avg_views": 10830.181818181818,
+            "avg_likes": 205.0909090909091,
+            "avg_dislikes": 3.8181818181818183,
+            "avg_comments": 18.90909090909091
+        },
+        "MIT 22.01 Introduction to Nuclear Engineering and Ionizing Radiation, Fall 2016": {
+            "avg_views": 38294.117647058825,
+            "avg_likes": 688.3823529411765,
+            "avg_dislikes": 21.705882352941178,
+            "avg_comments": 106.3529411764706
+        },
+        "MIT 6.172 Performance Engineering of Software Systems, Fall 2018": {
+            "avg_views": 6393.739130434783,
+            "avg_likes": 107.26086956521739,
+            "avg_dislikes": 1.608695652173913,
+            "avg_comments": 7.043478260869565
+        },
+        "2 Million Subscribers! THANK YOU!!!": {
+            "avg_views": 139135.0,
+            "avg_likes": 1642.0,
+            "avg_dislikes": 43.0,
+            "avg_comments": 254.0
+        },
+        "MIT MAS.S62 Cryptocurrency Engineering and Design, Spring 2018": {
+            "avg_views": 5098.1,
+            "avg_likes": 92.3,
+            "avg_dislikes": 1.7,
+            "avg_comments": 7.55
+        },
+        "MIT STS.081J/17.395J Innovation Systems for Science, Tech, Energy, Manufacturing & Health, Spring 2017": {
+            "avg_views": 1694.5833333333333,
+            "avg_likes": 28.375,
+            "avg_dislikes": 1.0833333333333333,
+            "avg_comments": 1.5416666666666667
+        },
+        "MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018": {
+            "avg_views": 34477.11111111111,
+            "avg_likes": 599.8055555555555,
+            "avg_dislikes": 5.805555555555555,
+            "avg_comments": 38.111111111111114
+        },
+        "MIT 15.960 New Executive Thinking Social-Impact Technology Projects, Fall 2017": {
+            "avg_views": 2042.3333333333333,
+            "avg_likes": 24.0,
+            "avg_dislikes": 2.3333333333333335,
+            "avg_comments": 1.1666666666666667
+        },
+        "MIT 6.004 Computation Structures, Spring 2017": {
+            "avg_views": 1389.2616279069769,
+            "avg_likes": 14.116279069767442,
+            "avg_dislikes": 0.36046511627906974,
+            "avg_comments": 0.5930232558139535
+        },
+        "MIT RES.3-004 Visualizing Materials Science, Fall 2017": {
+            "avg_views": 2475.4814814814813,
+            "avg_likes": 27.48148148148148,
+            "avg_dislikes": 0.9629629629629629,
+            "avg_comments": 1.8148148148148149
+        },
+        "MIT 8.06 Quantum Physics III, Spring 2018": {
+            "avg_views": 6773.23,
+            "avg_likes": 85.85,
+            "avg_dislikes": 0.98,
+            "avg_comments": 5.71
+        },
+        "MIT 5.61 Physical Chemistry, Fall 2017": {
+            "avg_views": 5685.027777777777,
+            "avg_likes": 80.63888888888889,
+            "avg_dislikes": 2.7222222222222223,
+            "avg_comments": 4.472222222222222
+        },
+        "MIT 5.08J Biological Chemistry II, Spring 2016": {
+            "avg_views": 1776.795918367347,
+            "avg_likes": 25.959183673469386,
+            "avg_dislikes": 0.42857142857142855,
+            "avg_comments": 1.510204081632653
+        },
+        "MIT 1.258J Public Transportation Systems, Spring 2017": {
+            "avg_views": 2656.764705882353,
+            "avg_likes": 42.64705882352941,
+            "avg_dislikes": 0.6470588235294118,
+            "avg_comments": 1.4705882352941178
+        },
+        "MIT RES.11-002 Intentional Public Disruptions: Art, Responsibility, and Pedagogy, Fall 2017": {
+            "avg_views": 2286.6,
+            "avg_likes": 30.5,
+            "avg_dislikes": 5.0,
+            "avg_comments": 3.6
+        },
+        "MIT 15.071 The Analytics Edge, Spring 2017": {
+            "avg_views": 1611.1347150259066,
+            "avg_likes": 11.062176165803109,
+            "avg_dislikes": 0.16062176165803108,
+            "avg_comments": 0.46113989637305697
+        },
+        "How We Teach: MIT 24.908 Creole Language and Caribbean Identities, Spring 2017": {
+            "avg_views": 557.0882352941177,
+            "avg_likes": 6.235294117647059,
+            "avg_dislikes": 1.4705882352941178,
+            "avg_comments": 0.9705882352941176
+        },
+        "MIT 16.412J Cognitive Robotics, Spring 2016": {
+            "avg_views": 7370.285714285715,
+            "avg_likes": 102.28571428571429,
+            "avg_dislikes": 2.5714285714285716,
+            "avg_comments": 5.0
+        },
+        "MIT 6.S095 Programming for the Puzzled, January IAP 2018": {
+            "avg_views": 45679.818181818184,
+            "avg_likes": 393.45454545454544,
+            "avg_dislikes": 38.36363636363637,
+            "avg_comments": 49.81818181818182
+        },
+        "How We Teach: MIT 8.13-14 Experimental Physics I & II \u201cJunior Lab\u201d, Fall 2016 - Spring 2017": {
+            "avg_views": 1115.2708333333333,
+            "avg_likes": 14.645833333333334,
+            "avg_dislikes": 1.125,
+            "avg_comments": 1.0625
+        },
+        "How We Teach: MIT 8.03SC Physics III: Vibrations and Waves, Fall 2016": {
+            "avg_views": 2627.909090909091,
+            "avg_likes": 24.545454545454547,
+            "avg_dislikes": 0.6363636363636364,
+            "avg_comments": 0.45454545454545453
+        },
+        "MIT RES.ENV-001 Climate Action Hands-On: Harnessing Science with Communities to Cut Carbon, IAP 2017": {
+            "avg_views": 1014.25,
+            "avg_likes": 12.0,
+            "avg_dislikes": 1.125,
+            "avg_comments": 1.125
+        },
+        "MIT RES.9-003 Brains, Minds and Machines Summer Course, Summer 2015": {
+            "avg_views": 3338.0333333333333,
+            "avg_likes": 49.1,
+            "avg_dislikes": 1.1333333333333333,
+            "avg_comments": 1.9833333333333334
+        },
+        "MIT 8.03SC Physics III: Vibrations and Waves, Fall 2016": {
+            "avg_views": 10778.277777777777,
+            "avg_likes": 139.72222222222223,
+            "avg_dislikes": 2.861111111111111,
+            "avg_comments": 9.583333333333334
+        },
+        "MIT RES.6-012 Introduction to Probability, Spring 2018": {
+            "avg_views": 8950.274436090225,
+            "avg_likes": 78.78195488721805,
+            "avg_dislikes": 1.3646616541353382,
+            "avg_comments": 2.943609022556391
+        },
+        "MIT 24.912 Introduction to Black Studies, Spring 2017": {
+            "avg_views": 4115.875,
+            "avg_likes": 69.125,
+            "avg_dislikes": 56.875,
+            "avg_comments": 16.375
+        },
+        "How We Teach: MIT 21G.503 Japanese III, Fall 2016": {
+            "avg_views": 3415.5,
+            "avg_likes": 21.916666666666668,
+            "avg_dislikes": 0.5,
+            "avg_comments": 1.0
+        },
+        "MIT RES.3-002 Collaborative Design & Creative Expression, IAP17": {
+            "avg_views": 3452.2,
+            "avg_likes": 25.8,
+            "avg_dislikes": 3.45,
+            "avg_comments": 2.15
+        },
+        "MIT RES.3-003 Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft Kinect, IAP 2017": {
+            "avg_views": 2891.6,
+            "avg_likes": 12.92,
+            "avg_dislikes": 1.28,
+            "avg_comments": 0.96
+        },
+        "How We Teach: 5.07SC Biological Chemistry I, Fall 2013": {
+            "avg_views": 3326.5,
+            "avg_likes": 50.2,
+            "avg_dislikes": 1.0,
+            "avg_comments": 2.0
+        },
+        "How We Teach: 5.111SC Principles of Chemical Science": {
+            "avg_views": 5692.111111111111,
+            "avg_likes": 27.333333333333332,
+            "avg_dislikes": 1.1111111111111112,
+            "avg_comments": 1.8888888888888888
+        },
+        "MIT 10.34 Numerical Methods Applied to Chemical Engineering, Fall 2015": {
+            "avg_views": 5654.217391304348,
+            "avg_likes": 41.34782608695652,
+            "avg_dislikes": 1.7391304347826086,
+            "avg_comments": 2.4782608695652173
+        },
+        "MIT 18.650 Statistics for Applications, Fall 2016": {
+            "avg_views": 62504.09090909091,
+            "avg_likes": 626.6363636363636,
+            "avg_dislikes": 23.181818181818183,
+            "avg_comments": 30.272727272727273
+        },
+        "MIT 16.842 Fundamentals of Systems Engineering, Fall 2015": {
+            "avg_views": 12316.952380952382,
+            "avg_likes": 89.80952380952381,
+            "avg_dislikes": 2.1904761904761907,
+            "avg_comments": 2.7142857142857144
+        },
+        "How We Teach: MIT 21G.027 Asia in the Modern World, Fall 2016": {
+            "avg_views": 953.5,
+            "avg_likes": 5.5,
+            "avg_dislikes": 0.0,
+            "avg_comments": 0.125
+        },
+        "MIT 15.S50 How to Win at Texas Hold 'Em, IAP 2016": {
+            "avg_views": 18918.166666666668,
+            "avg_likes": 156.16666666666666,
+            "avg_dislikes": 7.333333333333333,
+            "avg_comments": 13.833333333333334
+        },
+        "MIT 11.601 Introduction to Environmental Policy and Planning": {
+            "avg_views": 2042.2941176470588,
+            "avg_likes": 13.529411764705882,
+            "avg_dislikes": 1.4705882352941178,
+            "avg_comments": 0.8823529411764706
+        },
+        "MIT 8.04 Quantum Physics I, Spring 2016": {
+            "avg_views": 39760.208695652174,
+            "avg_likes": 494.83478260869566,
+            "avg_dislikes": 9.843478260869565,
+            "avg_comments": 28.730434782608697
+        },
+        "MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016": {
+            "avg_views": 190148.53333333333,
+            "avg_likes": 2335.5333333333333,
+            "avg_dislikes": 46.2,
+            "avg_comments": 84.06666666666666
+        },
+        "MIT 5.07SC Biological Chemistry I, Fall 2013": {
+            "avg_views": 7588.705882352941,
+            "avg_likes": 100.08823529411765,
+            "avg_dislikes": 2.323529411764706,
+            "avg_comments": 4.382352941176471
+        },
+        "MIT 8.01SC Classical Mechanics, Fall 2016": {
+            "avg_views": 10535.60465116279,
+            "avg_likes": 97.73488372093023,
+            "avg_dislikes": 3.158139534883721,
+            "avg_comments": 6.916279069767442
+        },
+        "MIT RES.15-003 Shaping the Future of Work, Spring 2016": {
+            "avg_views": 3098.822222222222,
+            "avg_likes": 25.022222222222222,
+            "avg_dislikes": 3.6666666666666665,
+            "avg_comments": 4.133333333333334
+        },
+        "How We Teach: MIT 5.95J Teaching College-Level Science and Engineering, Fall 2015": {
+            "avg_views": 15338.583333333334,
+            "avg_likes": 150.66666666666666,
+            "avg_dislikes": 5.5,
+            "avg_comments": 23.166666666666668
+        },
+        "MIT Indian Institutes of Technology Joint Entrance Exam Preparation, Fall 2016": {
+            "avg_views": 11412.222222222223,
+            "avg_likes": 96.88888888888889,
+            "avg_dislikes": 12.777777777777779,
+            "avg_comments": 15.88888888888889
+        },
+        "OCW Scholar promotion": {
+            "avg_views": 1099.6666666666667,
+            "avg_likes": 8.666666666666666,
+            "avg_dislikes": 5.0,
+            "avg_comments": 1.1666666666666667
+        },
+        "6.0001 Introduction to Computer Science and Programming in Python. Fall 2016": {
+            "avg_views": 75766.28947368421,
+            "avg_likes": 759.5526315789474,
+            "avg_dislikes": 16.92105263157895,
+            "avg_comments": 50.18421052631579
+        },
+        "MIT 5.111 Principles of Chemical Science, Fall 2014": {
+            "avg_views": 35458.02857142857,
+            "avg_likes": 503.22857142857146,
+            "avg_dislikes": 11.371428571428572,
+            "avg_comments": 30.428571428571427
+        },
+        "MIT RES.21G-001 The User-Friendly Classroom, Spring 2016": {
+            "avg_views": 8826.0,
+            "avg_likes": 71.28571428571429,
+            "avg_dislikes": 6.0,
+            "avg_comments": 5.428571428571429
+        },
+        "MIT RES.10-001 Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work, Spring 2016": {
+            "avg_views": 1690.090909090909,
+            "avg_likes": 10.636363636363637,
+            "avg_dislikes": 1.4545454545454546,
+            "avg_comments": 0.7727272727272727
+        },
+        "MIT 11.384-11.386 Malaysia Sustainable Cities Program, Spring 2016": {
+            "avg_views": 1978.5,
+            "avg_likes": 25.61111111111111,
+            "avg_dislikes": 8.055555555555555,
+            "avg_comments": 1.4444444444444444
+        },
+        "MIT 3.054 Cellular Solids: Structure, Properties and Applications, Spring 2015": {
+            "avg_views": 6765.56,
+            "avg_likes": 79.52,
+            "avg_dislikes": 1.12,
+            "avg_comments": 3.8
+        },
+        "How We Teach: 21G.101 Chinese I, Fall 2014 - Chinese": {
+            "avg_views": 3125.0,
+            "avg_likes": 10.857142857142858,
+            "avg_dislikes": 1.8571428571428572,
+            "avg_comments": 1.5714285714285714
+        },
+        "How We Teach: 21G.101 Chinese I, Fall 2014 - English": {
+            "avg_views": 4041.75,
+            "avg_likes": 19.75,
+            "avg_dislikes": 1.75,
+            "avg_comments": 0.5
+        },
+        "MIT 15.S21 Nuts and Bolts of Business Plans, IAP 2014": {
+            "avg_views": 34253.142857142855,
+            "avg_likes": 455.57142857142856,
+            "avg_dislikes": 11.857142857142858,
+            "avg_comments": 16.142857142857142
+        },
+        "MIT Learn Differential Equations": {
+            "avg_views": 65031.14705882353,
+            "avg_likes": 919.2205882352941,
+            "avg_dislikes": 12.294117647058824,
+            "avg_comments": 39.26470588235294
+        },
+        "MIT D4M: Signal Processing on Databases, Fall 2012": {
+            "avg_views": 13129.722222222223,
+            "avg_likes": 206.72222222222223,
+            "avg_dislikes": 3.388888888888889,
+            "avg_comments": 10.11111111111111
+        },
+        "How We Teach: MIT 6.046J Design and Analysis of Algorithms, Spring 2015": {
+            "avg_views": 9751.8,
+            "avg_likes": 111.4,
+            "avg_dislikes": 0.8,
+            "avg_comments": 5.4
+        },
+        "MIT 21L.011 The Film Experience, Fall 2013": {
+            "avg_views": 16604.8,
+            "avg_likes": 215.0,
+            "avg_dislikes": 4.333333333333333,
+            "avg_comments": 10.8
+        },
+        "MIT 8.821 String Theory and Holographic Duality, Fall 2014": {
+            "avg_views": 7980.625,
+            "avg_likes": 81.75,
+            "avg_dislikes": 1.7916666666666667,
+            "avg_comments": 7.0
+        },
+        "MIT 6.046J Design and Analysis of Algorithms, Spring 2015": {
+            "avg_views": 67035.70588235294,
+            "avg_likes": 611.0882352941177,
+            "avg_dislikes": 23.676470588235293,
+            "avg_comments": 44.88235294117647
+        },
+        "MIT CMS.701, Spring 2015": {
+            "avg_views": 1560.0,
+            "avg_likes": 5.5,
+            "avg_dislikes": 1.0,
+            "avg_comments": 0.0
+        },
+        "MIT 20.219 Becoming the Next Bill Nye: Writing and Hosting the Educational Show, IAP 2015": {
+            "avg_views": 1694.121951219512,
+            "avg_likes": 13.317073170731707,
+            "avg_dislikes": 2.682926829268293,
+            "avg_comments": 1.975609756097561
+        },
+        "How We Teach: MIT 6.811 Principles and Practice of Assistive Technology": {
+            "avg_views": 790.6428571428571,
+            "avg_likes": 3.357142857142857,
+            "avg_dislikes": 2.2857142857142856,
+            "avg_comments": 0.21428571428571427
+        },
+        "MIT CMS.611J Creating Video Games, Fall 2014": {
+            "avg_views": 4851.733333333334,
+            "avg_likes": 47.577777777777776,
+            "avg_dislikes": 2.2666666666666666,
+            "avg_comments": 2.2444444444444445
+        },
+        "MIT 6.042J Mathematics for Computer Science, Spring 2015": {
+            "avg_views": 11487.315315315316,
+            "avg_likes": 85.31531531531532,
+            "avg_dislikes": 5.54954954954955,
+            "avg_comments": 6.009009009009009
+        },
+        "How We Teach: MIT 21G.107 Chinese I (Streamlined), Fall 2014": {
+            "avg_views": 2105.090909090909,
+            "avg_likes": 9.272727272727273,
+            "avg_dislikes": 2.1818181818181817,
+            "avg_comments": 0.7272727272727273
+        },
+        "MIT ESD.S43 Green Supply Chain Management, Spring 2014": {
+            "avg_views": 12203.0,
+            "avg_likes": 88.16666666666667,
+            "avg_dislikes": 3.8333333333333335,
+            "avg_comments": 3.3333333333333335
+        },
+        "MIT Reducing the Danger of Nuclear Weapons & Proliferation": {
+            "avg_views": 8008.5,
+            "avg_likes": 78.0,
+            "avg_dislikes": 7.0,
+            "avg_comments": 12.0
+        },
+        "MIT 6.890 Algorithmic Lower Bounds, Fall 2014": {
+            "avg_views": 8042.608695652174,
+            "avg_likes": 65.43478260869566,
+            "avg_dislikes": 1.434782608695652,
+            "avg_comments": 4.043478260869565
+        },
+        "MIT 6.858 Computer Systems Security, Fall 2014": {
+            "avg_views": 57331.545454545456,
+            "avg_likes": 565.7727272727273,
+            "avg_dislikes": 11.136363636363637,
+            "avg_comments": 21.818181818181817
+        },
+        "MIT 8.591J Systems Biology, Fall 2014": {
+            "avg_views": 9644.125,
+            "avg_likes": 85.29166666666667,
+            "avg_dislikes": 3.5416666666666665,
+            "avg_comments": 4.291666666666667
+        },
+        "MIT 15.S50 Poker Theory and Analysis, IAP 2015": {
+            "avg_views": 129725.5,
+            "avg_likes": 812.875,
+            "avg_dislikes": 64.125,
+            "avg_comments": 93.625
+        },
+        "Faculty Insights of MIT 3.054 Cellular Solids: Structure, Properties and Applications, Spring 2014": {
+            "avg_views": 3380.8333333333335,
+            "avg_likes": 21.0,
+            "avg_dislikes": 0.3333333333333333,
+            "avg_comments": 1.5
+        },
+        "MIT 22.15 Essential Numerical Methods, Fall 2014": {
+            "avg_views": 40408.666666666664,
+            "avg_likes": 172.33333333333334,
+            "avg_dislikes": 6.0,
+            "avg_comments": 5.333333333333333
+        },
+        "MIT 8.421 Atomic and Optical Physics I, Spring 2014": {
+            "avg_views": 8131.48,
+            "avg_likes": 52.76,
+            "avg_dislikes": 0.8,
+            "avg_comments": 4.24
+        },
+        "MIT 2.087 Engineering Mathematics: Linear Algebra and ODEs, Fall 2014": {
+            "avg_views": 40182.25,
+            "avg_likes": 320.75,
+            "avg_dislikes": 8.0,
+            "avg_comments": 21.25
+        },
+        "MIT 7.91J Foundations of Computational and Systems Biology": {
+            "avg_views": 29298.68181818182,
+            "avg_likes": 279.0,
+            "avg_dislikes": 5.136363636363637,
+            "avg_comments": 10.090909090909092
+        },
+        "MIT 15.879 Research Seminar in System Dynamics, Spring 2014": {
+            "avg_views": 7800.0,
+            "avg_likes": 27.5,
+            "avg_dislikes": 2.5,
+            "avg_comments": 1.5
+        },
+        "MIT 8.334 Statistical Mechanics II, Spring 2014": {
+            "avg_views": 6931.692307692308,
+            "avg_likes": 50.76923076923077,
+            "avg_dislikes": 0.8461538461538461,
+            "avg_comments": 2.230769230769231
+        },
+        "MIT 18.S096 Topics in Mathematics w Applications in Finance": {
+            "avg_views": 234844.16666666666,
+            "avg_likes": 2787.0833333333335,
+            "avg_dislikes": 71.625,
+            "avg_comments": 125.25
+        },
+        "MIT 8.333 Statistical Mechanics I: Statistical Mechanics of Particles, Fall 2013": {
+            "avg_views": 26032.69230769231,
+            "avg_likes": 164.23076923076923,
+            "avg_dislikes": 3.8846153846153846,
+            "avg_comments": 14.192307692307692
+        },
+        "MITx on edX course trailers": {
+            "avg_views": 0.0,
+            "avg_likes": 0.0,
+            "avg_dislikes": 0.0,
+            "avg_comments": 0.0
+        },
+        "MIT ESD.051J Engineering Innovation and Design, Fall 2012": {
+            "avg_views": 11238.142857142857,
+            "avg_likes": 89.0,
+            "avg_dislikes": 3.4285714285714284,
+            "avg_comments": 5.714285714285714
+        },
+        "MIT Making Science and Engineering Pictures": {
+            "avg_views": 6655.571428571428,
+            "avg_likes": 30.285714285714285,
+            "avg_dislikes": 1.1428571428571428,
+            "avg_comments": 2.2857142857142856
+        },
+        "MIT 6.849 Geometric Folding Algorithms, Fall 2012": {
+            "avg_views": 7005.375,
+            "avg_likes": 69.225,
+            "avg_dislikes": 1.25,
+            "avg_comments": 2.625
+        },
+        "MIT Lean Enterprise en Espa\u00f1ol (RES.16-001)": {
+            "avg_views": 6644.666666666667,
+            "avg_likes": 17.0,
+            "avg_dislikes": 0.6666666666666666,
+            "avg_comments": 0.6666666666666666
+        },
+        "MIT 8.422 Atomic and Optical Physics II, Spring 2013": {
+            "avg_views": 9323.42857142857,
+            "avg_likes": 65.03571428571429,
+            "avg_dislikes": 1.5714285714285714,
+            "avg_comments": 4.785714285714286
+        },
+        "MIT 21M.355 Musical Improvisation, Spring 2013": {
+            "avg_views": 2689.5384615384614,
+            "avg_likes": 19.307692307692307,
+            "avg_dislikes": 0.8461538461538461,
+            "avg_comments": 1.4615384615384615
+        },
+        "MIT 8.286 The Early Universe, Fall 2013": {
+            "avg_views": 28656.217391304348,
+            "avg_likes": 299.17391304347825,
+            "avg_dislikes": 6.565217391304348,
+            "avg_comments": 34.869565217391305
+        },
+        "MIT 6.370 The Battlecode Programming Competition, IAP 2013": {
+            "avg_views": 8954.75,
+            "avg_likes": 72.0,
+            "avg_dislikes": 2.625,
+            "avg_comments": 3.125
+        },
+        "MIT 8.05 Quantum Physics II, Fall 2013": {
+            "avg_views": 33404.269230769234,
+            "avg_likes": 285.11538461538464,
+            "avg_dislikes": 4.384615384615385,
+            "avg_comments": 22.692307692307693
+        },
+        "MIT 8.04 Quantum Physics I, Spring 2013 (2013)": {
+            "avg_views": 212146.64,
+            "avg_likes": 2171.6,
+            "avg_dislikes": 43.68,
+            "avg_comments": 191.56
+        },
+        "MIT 9.04 Sensory Systems, Fall 2013": {
+            "avg_views": 9677.652173913044,
+            "avg_likes": 80.73913043478261,
+            "avg_dislikes": 2.0434782608695654,
+            "avg_comments": 4.260869565217392
+        },
+        "MIT 15.390 New Enterprises, Spring 2013": {
+            "avg_views": 107188.66666666667,
+            "avg_likes": 932.4166666666666,
+            "avg_dislikes": 29.833333333333332,
+            "avg_comments": 32.666666666666664
+        },
+        "MIT 2.003J Dynamics and Control I, Fall 2007": {
+            "avg_views": 14536.333333333334,
+            "avg_likes": 58.111111111111114,
+            "avg_dislikes": 2.7777777777777777,
+            "avg_comments": 0.0
+        },
+        "MIT 6.02 Introduction to EECS II: Digital Communication Systems, Fall 2012": {
+            "avg_views": 9191.708333333334,
+            "avg_likes": 35.708333333333336,
+            "avg_dislikes": 4.416666666666667,
+            "avg_comments": 3.6666666666666665
+        },
+        "MIT 6.868J The Society of Mind, Fall 2011": {
+            "avg_views": 31216.846153846152,
+            "avg_likes": 261.0,
+            "avg_dislikes": 11.923076923076923,
+            "avg_comments": 32.23076923076923
+        },
+        "MIT 6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013": {
+            "avg_views": 62131.47368421053,
+            "avg_likes": 406.4736842105263,
+            "avg_dislikes": 10.552631578947368,
+            "avg_comments": 26.68421052631579
+        },
+        "MIT 6.034 Artificial Intelligence, Fall 2010": {
+            "avg_views": 205565.36666666667,
+            "avg_likes": 1743.5666666666666,
+            "avg_dislikes": 29.333333333333332,
+            "avg_comments": 113.7
+        },
+        "How We Teach: MIT 16.06 Principles of Automatic Control, Fall 2012": {
+            "avg_views": 4309.5,
+            "avg_likes": 26.25,
+            "avg_dislikes": 0.25,
+            "avg_comments": 2.0
+        },
+        "MIT 2.627 Fundamentals of Photovoltaics, Fall 2011": {
+            "avg_views": 25400.923076923078,
+            "avg_likes": 209.8846153846154,
+            "avg_dislikes": 4.038461538461538,
+            "avg_comments": 11.653846153846153
+        },
+        "MIT 3.021J Introduction to Modeling and Simulation, Spring 2012": {
+            "avg_views": 10332.181818181818,
+            "avg_likes": 102.18181818181819,
+            "avg_dislikes": 1.3636363636363635,
+            "avg_comments": 3.5454545454545454
+        },
+        "MIT 7.013 Introductory Biology, Spring 2011": {
+            "avg_views": 53439.22222222222,
+            "avg_likes": 583.8888888888889,
+            "avg_dislikes": 12.222222222222221,
+            "avg_comments": 27.88888888888889
+        },
+        "MIT 18.821 Project Laboratory in Mathematics, Spring 2013": {
+            "avg_views": 5795.25,
+            "avg_likes": 58.75,
+            "avg_dislikes": 1.625,
+            "avg_comments": 2.0
+        },
+        "MIT 16.660J / ESD.62J / 16.853 Introduction to Lean Six Sigma Methods, IAP 2012": {
+            "avg_views": 26696.5,
+            "avg_likes": 168.64285714285714,
+            "avg_dislikes": 4.428571428571429,
+            "avg_comments": 2.857142857142857
+        },
+        "MIT 14.772 Development Economics: Macroeconomics, Spring 2013": {
+            "avg_views": 12399.833333333334,
+            "avg_likes": 76.41666666666667,
+            "avg_dislikes": 1.75,
+            "avg_comments": 2.25
+        },
+        "MIT STEM Concept Videos": {
+            "avg_views": 37644.04878048781,
+            "avg_likes": 470.4146341463415,
+            "avg_dislikes": 13.21951219512195,
+            "avg_comments": 19.21951219512195
+        },
+        "MIT 6.851 Advanced Data Structures, Spring 2012": {
+            "avg_views": 24832.31818181818,
+            "avg_likes": 185.4090909090909,
+            "avg_dislikes": 3.0454545454545454,
+            "avg_comments": 10.727272727272727
+        },
+        "MIT 21A.550J/STS.064J DV Lab: Documenting Science Through Video and New Media, Spring 2011": {
+            "avg_views": 4011.7,
+            "avg_likes": 31.8,
+            "avg_dislikes": 0.8,
+            "avg_comments": 1.8
+        },
+        "MIT 4.241J Theory of City Form, Spring 2013": {
+            "avg_views": 3687.4444444444443,
+            "avg_likes": 29.925925925925927,
+            "avg_dislikes": 0.5925925925925926,
+            "avg_comments": 1.2222222222222223
+        },
+        "MIT Vibrations and Waves Problem Solving Help Videos, Fall 2012": {
+            "avg_views": 59668.1,
+            "avg_likes": 575.0,
+            "avg_dislikes": 12.9,
+            "avg_comments": 31.9
+        },
+        "MIT 8.851 Effective Field Theory, Spring 2013": {
+            "avg_views": 4877.0,
+            "avg_likes": 24.076923076923077,
+            "avg_dislikes": 0.34615384615384615,
+            "avg_comments": 2.230769230769231
+        },
+        "MIT 6.S079 Nanomaker, Spring 2013": {
+            "avg_views": 37088.8,
+            "avg_likes": 254.7,
+            "avg_dislikes": 14.2,
+            "avg_comments": 15.8
+        },
+        "How We Teach: MIT ES.S41 Speak Italian With Your Mouth Full, S12": {
+            "avg_views": 3779.3333333333335,
+            "avg_likes": 13.75,
+            "avg_dislikes": 1.6666666666666667,
+            "avg_comments": 1.25
+        },
+        "MIT ES.S41 Speak Italian With Your Mouth Full, Spring 2012": {
+            "avg_views": 3936.923076923077,
+            "avg_likes": 21.205128205128204,
+            "avg_dislikes": 0.48717948717948717,
+            "avg_comments": 0.9743589743589743
+        },
+        "MIT 15.356 How to Develop Breakthrough Products & Services": {
+            "avg_views": 16278.25,
+            "avg_likes": 126.5,
+            "avg_dislikes": 3.25,
+            "avg_comments": 6.25
+        },
+        "MIT 2.003SC Engineering Dynamics, Fall 2011": {
+            "avg_views": 86886.38461538461,
+            "avg_likes": 655.6153846153846,
+            "avg_dislikes": 14.897435897435898,
+            "avg_comments": 27.205128205128204
+        },
+        "How We Teach: MIT 11.124, Fall 2011": {
+            "avg_views": 3351.75,
+            "avg_likes": 15.0,
+            "avg_dislikes": 1.0,
+            "avg_comments": 1.75
+        },
+        "MIT Electronic Feedback Systems (1985)": {
+            "avg_views": 24354.35,
+            "avg_likes": 145.1,
+            "avg_dislikes": 3.4,
+            "avg_comments": 7.55
+        },
+        "MIT MAS.962 Special Topics: New Textiles, Spring 2010": {
+            "avg_views": 2448.6923076923076,
+            "avg_likes": 18.46153846153846,
+            "avg_dislikes": 1.3846153846153846,
+            "avg_comments": 3.4615384615384617
+        },
+        "MIT 15.401 Finance Theory I, Fall 2008": {
+            "avg_views": 127175.2,
+            "avg_likes": 964.9,
+            "avg_dislikes": 21.25,
+            "avg_comments": 63.75
+        },
+        "MIT 1.72 Groundwater Hydrology, Fall 2005": {
+            "avg_views": 2591.6666666666665,
+            "avg_likes": 5.8,
+            "avg_dislikes": 0.9333333333333333,
+            "avg_comments": 0.13333333333333333
+        },
+        "MIT Atmosphere, Ocean and Climate Dynamics, Fall 2008": {
+            "avg_views": 4535.0,
+            "avg_likes": 12.2,
+            "avg_dislikes": 0.8,
+            "avg_comments": 1.0
+        },
+        "MIT 15.031J Energy Decisions, Markets, Policies, Spring 2012": {
+            "avg_views": 10235.666666666666,
+            "avg_likes": 72.47619047619048,
+            "avg_dislikes": 1.8095238095238095,
+            "avg_comments": 4.190476190476191
+        },
+        "MIT 18.S997 Introduction to MATLAB Programming Fall 2011": {
+            "avg_views": 115271.83333333333,
+            "avg_likes": 461.0,
+            "avg_dislikes": 11.333333333333334,
+            "avg_comments": 13.5
+        },
+        "MIT Chemistry Behind the Magic": {
+            "avg_views": 24033.53846153846,
+            "avg_likes": 205.30769230769232,
+            "avg_dislikes": 7.0,
+            "avg_comments": 11.461538461538462
+        },
+        "MIT 6.003 Signals and Systems, Fall 2011": {
+            "avg_views": 46499.72,
+            "avg_likes": 294.2,
+            "avg_dislikes": 6.16,
+            "avg_comments": 17.88
+        },
+        "MIT Chemistry in Action: Profiles of MIT Researchers": {
+            "avg_views": 5136.0,
+            "avg_likes": 65.0,
+            "avg_dislikes": 2.0,
+            "avg_comments": 5.666666666666667
+        },
+        "MIT 6.007 Electromagnetic Energy, Spring 2011": {
+            "avg_views": 20282.4,
+            "avg_likes": 150.0,
+            "avg_dislikes": 8.0,
+            "avg_comments": 9.0
+        },
+        "MIT 6.006 Introduction to Algorithms, Fall 2011": {
+            "avg_views": 266535.02127659577,
+            "avg_likes": 2240.808510638298,
+            "avg_dislikes": 43.04255319148936,
+            "avg_comments": 146.4468085106383
+        },
+        "MIT 14.73 The Challenge of World Poverty, Spring 2011": {
+            "avg_views": 37735.22727272727,
+            "avg_likes": 685.7727272727273,
+            "avg_dislikes": 20.772727272727273,
+            "avg_comments": 53.54545454545455
+        },
+        "MIT SP.775 D-Lab: Energy, Spring 2011": {
+            "avg_views": 3556.9523809523807,
+            "avg_likes": 27.38095238095238,
+            "avg_dislikes": 2.2857142857142856,
+            "avg_comments": 3.3333333333333335
+        },
+        "MIT 2.57 Nano-to-Micro Transport Processes, Spring 2012": {
+            "avg_views": 22354.52,
+            "avg_likes": 157.52,
+            "avg_dislikes": 4.44,
+            "avg_comments": 9.56
+        },
+        "MIT HST.S14 Health Information Systems, Spring 2012": {
+            "avg_views": 4409.25,
+            "avg_likes": 26.0,
+            "avg_dislikes": 1.0833333333333333,
+            "avg_comments": 2.0833333333333335
+        },
+        "6.041 Probabilistic Systems Analysis and Applied Probability": {
+            "avg_views": 129074.48,
+            "avg_likes": 806.36,
+            "avg_dislikes": 14.64,
+            "avg_comments": 49.04
+        },
+        "ChemLab Boot Camp": {
+            "avg_views": 8715.1875,
+            "avg_likes": 71.625,
+            "avg_dislikes": 6.125,
+            "avg_comments": 17.0
+        },
+        "MIT STS.050 The History of MIT, Spring 2011": {
+            "avg_views": 4726.555555555556,
+            "avg_likes": 40.111111111111114,
+            "avg_dislikes": 2.4444444444444446,
+            "avg_comments": 4.111111111111111
+        },
+        "MIT 24.08J Philosophical Issues in Brain Science, Spring 09": {
+            "avg_views": 11005.2,
+            "avg_likes": 93.2,
+            "avg_dislikes": 5.2,
+            "avg_comments": 12.6
+        },
+        "MIT 22.033 Nuclear Systems Design Project, Fall 2011": {
+            "avg_views": 33166.1,
+            "avg_likes": 254.4,
+            "avg_dislikes": 6.8,
+            "avg_comments": 19.4
+        },
+        "MIT 16.810 Engineering Design and Rapid Prototyping, IAP 07": {
+            "avg_views": 6498.0,
+            "avg_likes": 34.8,
+            "avg_dislikes": 2.2,
+            "avg_comments": 2.8
+        },
+        "MIT 18.03SC Mathlet Videos, Fall 2011": {
+            "avg_views": 8785.25,
+            "avg_likes": 52.125,
+            "avg_dislikes": 0.875,
+            "avg_comments": 5.125
+        },
+        "Electromagnetic Fields & Energy, Textbook Components w Video": {
+            "avg_views": 3077.0408163265306,
+            "avg_likes": 21.040816326530614,
+            "avg_dislikes": 0.5714285714285714,
+            "avg_comments": 1.4489795918367347
+        },
+        "MIT RES.6-006 Video Demonstrations in Lasers and Optics": {
+            "avg_views": 16535.61224489796,
+            "avg_likes": 131.6530612244898,
+            "avg_dislikes": 3.4285714285714284,
+            "avg_comments": 8.16326530612245
+        },
+        "MIT 21L.011 The Film Experience, Fall 2007": {
+            "avg_views": 13768.5,
+            "avg_likes": 152.75,
+            "avg_dislikes": 4.875,
+            "avg_comments": 13.375
+        },
+        "MIT 21L.432 Understanding Television, Spring 2003": {
+            "avg_views": 1950.1666666666667,
+            "avg_likes": 8.666666666666666,
+            "avg_dislikes": 0.16666666666666666,
+            "avg_comments": 0.3333333333333333
+        },
+        "MIT 20.309 Biological Engineering II, Fall 2006": {
+            "avg_views": 3155.1666666666665,
+            "avg_likes": 15.166666666666666,
+            "avg_dislikes": 0.5,
+            "avg_comments": 0.3333333333333333
+        },
+        "MIT 21A.453 Anthropology of the Middle East, Spring 2004": {
+            "avg_views": 6495.0,
+            "avg_likes": 38.0,
+            "avg_dislikes": 13.5,
+            "avg_comments": 3.5
+        },
+        "MIT 18.06SC \u7ebf\u6027\u4ee3\u6570, \u79cb 2011": {
+            "avg_views": 6460.5,
+            "avg_likes": 69.5,
+            "avg_dislikes": 3.6666666666666665,
+            "avg_comments": 9.0
+        },
+        "MIT 6.262 Discrete Stochastic Processes, Spring 2011": {
+            "avg_views": 23574.68,
+            "avg_likes": 116.52,
+            "avg_dislikes": 4.64,
+            "avg_comments": 7.32
+        },
+        "MIT 21L.448J Darwin and Design, Fall 2010": {
+            "avg_views": 2853.3809523809523,
+            "avg_likes": 18.61904761904762,
+            "avg_dislikes": 0.8095238095238095,
+            "avg_comments": 3.3333333333333335
+        },
+        "MIT 7.01SC Fundamentals of Biology": {
+            "avg_views": 111852.02564102564,
+            "avg_likes": 1213.974358974359,
+            "avg_dislikes": 21.076923076923077,
+            "avg_comments": 62.1025641025641
+        },
+        "MIT 11.965 Reflective Practice, IAP 2007": {
+            "avg_views": 4268.0,
+            "avg_likes": 19.4,
+            "avg_dislikes": 2.1,
+            "avg_comments": 2.1
+        },
+        "MIT 6.042J Mathematics for Computer Science, Fall 2010": {
+            "avg_views": 137527.96,
+            "avg_likes": 1111.84,
+            "avg_dislikes": 25.8,
+            "avg_comments": 104.88
+        },
+        "MIT 14.01SC Principles of Microeconomics": {
+            "avg_views": 122329.97368421052,
+            "avg_likes": 952.0,
+            "avg_dislikes": 25.763157894736842,
+            "avg_comments": 0.0
+        },
+        "MIT 18.03SC Differential Equations, Fall 2011": {
+            "avg_views": 87642.29166666667,
+            "avg_likes": 425.3333333333333,
+            "avg_dislikes": 12.88888888888889,
+            "avg_comments": 37.27777777777778
+        },
+        "MIT 9.00SC Introduction to Psychology, Fall 2011": {
+            "avg_views": 69019.75,
+            "avg_likes": 656.625,
+            "avg_dislikes": 13.291666666666666,
+            "avg_comments": 37.208333333333336
+        },
+        "MIT 6.00SC Introduction to Computer Science and Programming": {
+            "avg_views": 58980.71052631579,
+            "avg_likes": 295.7368421052632,
+            "avg_dislikes": 6.631578947368421,
+            "avg_comments": 37.026315789473685
+        },
+        "MIT 18.06SC Linear Algebra, Fall 2011": {
+            "avg_views": 158111.0810810811,
+            "avg_likes": 1183.2837837837837,
+            "avg_dislikes": 18.66216216216216,
+            "avg_comments": 101.86486486486487
+        },
+        "MIT Calculus Revisited: Calculus of Complex Variables": {
+            "avg_views": 68077.75,
+            "avg_likes": 675.2,
+            "avg_dislikes": 7.75,
+            "avg_comments": 98.15
+        },
+        "MIT Calculus Revisited: Multivariable Calculus": {
+            "avg_views": 20052.69230769231,
+            "avg_likes": 175.96153846153845,
+            "avg_dislikes": 1.9230769230769231,
+            "avg_comments": 25.615384615384617
+        },
+        "MIT 6.01SC Introduction to EECS I": {
+            "avg_views": 46402.51851851852,
+            "avg_likes": 339.6666666666667,
+            "avg_dislikes": 8.88888888888889,
+            "avg_comments": 26.85185185185185
+        },
+        "MIT 6.172 Performance Engineering of Software Systems": {
+            "avg_views": 6608.541666666667,
+            "avg_likes": 32.125,
+            "avg_dislikes": 0.9166666666666666,
+            "avg_comments": 3.0
+        },
+        "MIT RES.6-008 Digital Signal Processing, 1975": {
+            "avg_views": 37407.681818181816,
+            "avg_likes": 167.77272727272728,
+            "avg_dislikes": 2.1363636363636362,
+            "avg_comments": 15.5
+        },
+        "MIT 2.993 The Art and Science of Boat Design, IAP 2007": {
+            "avg_views": 19747.4,
+            "avg_likes": 90.0,
+            "avg_dislikes": 6.0,
+            "avg_comments": 8.0
+        },
+        "OCW Consortium Global Conference - May 2011": {
+            "avg_views": 2722.75,
+            "avg_likes": 30.75,
+            "avg_dislikes": 1.0,
+            "avg_comments": 6.5
+        },
+        "MIT 24.262 Feeling & Imagination in Art, Science, Technology": {
+            "avg_views": 2218.0,
+            "avg_likes": 20.5,
+            "avg_dislikes": 0.5,
+            "avg_comments": 1.5
+        },
+        "MIT 6.868J The Society of Mind, Spring 2007": {
+            "avg_views": 20602.4,
+            "avg_likes": 120.0,
+            "avg_dislikes": 5.0,
+            "avg_comments": 18.8
+        },
+        "MIT RES.6.007 Signals and Systems, 1987": {
+            "avg_views": 79417.38461538461,
+            "avg_likes": 484.9230769230769,
+            "avg_dislikes": 6.6923076923076925,
+            "avg_comments": 39.15384615384615
+        },
+        "MIT Nonlinear Finite Element Analysis": {
+            "avg_views": 16580.272727272728,
+            "avg_likes": 69.31818181818181,
+            "avg_dislikes": 1.5454545454545454,
+            "avg_comments": 3.0454545454545454
+        },
+        "MIT Linear Finite Element Analysis": {
+            "avg_views": 54594.166666666664,
+            "avg_likes": 322.6666666666667,
+            "avg_dislikes": 4.333333333333333,
+            "avg_comments": 18.25
+        },
+        "MIT OpenCourseWare News": {
+            "avg_views": 267119.63636363635,
+            "avg_likes": 691.0909090909091,
+            "avg_dislikes": 46.09090909090909,
+            "avg_comments": 72.27272727272727
+        },
+        "MIT 21M.542 Interdisciplinary Approaches to Musical Time": {
+            "avg_views": 992.8,
+            "avg_likes": 4.8,
+            "avg_dislikes": 0.2,
+            "avg_comments": 0.2
+        },
+        "MIT 22.091 Nuclear Reactor Safety, Spring 2008": {
+            "avg_views": 6112.833333333333,
+            "avg_likes": 35.5,
+            "avg_dislikes": 1.0,
+            "avg_comments": 2.6666666666666665
+        },
+        "MIT 2.71 Optics, Spring 2009": {
+            "avg_views": 8720.620689655172,
+            "avg_likes": 27.82758620689655,
+            "avg_dislikes": 2.7586206896551726,
+            "avg_comments": 3.9310344827586206
+        },
+        "MIT 20.020 Introduction to Biological Engineering Design": {
+            "avg_views": 7387.727272727273,
+            "avg_likes": 52.54545454545455,
+            "avg_dislikes": 4.818181818181818,
+            "avg_comments": 4.181818181818182
+        },
+        "MIT 18.02SC: Homework Help for Multivariable Calculus": {
+            "avg_views": 60992.5,
+            "avg_likes": 473.1,
+            "avg_dislikes": 16.485714285714284,
+            "avg_comments": 36.9
+        },
+        "MIT 18.01SC: Homework Help for Single Variable Calculus": {
+            "avg_views": 59497.55172413793,
+            "avg_likes": 582.0689655172414,
+            "avg_dislikes": 17.275862068965516,
+            "avg_comments": 49.64367816091954
+        },
+        "MIT 3.091SC Introduction to Solid State Chemistry, Fall 2010": {
+            "avg_views": 37719.27868852459,
+            "avg_likes": 174.7704918032787,
+            "avg_dislikes": 5.262295081967213,
+            "avg_comments": 14.131147540983607
+        },
+        "MIT 5.74 Introductory Quantum Mechanics II, Spring 2009": {
+            "avg_views": 7214.5,
+            "avg_likes": 22.0,
+            "avg_dislikes": 0.0,
+            "avg_comments": 1.75
+        },
+        "MIT Calculus Revisited: Single Variable Calculus": {
+            "avg_views": 25952.894736842107,
+            "avg_likes": 297.42105263157896,
+            "avg_dislikes": 2.5,
+            "avg_comments": 37.13157894736842
+        },
+        "MIT Abdul Latif Jameel Poverty Action Lab Executive Training": {
+            "avg_views": 4529.25,
+            "avg_likes": 18.0,
+            "avg_dislikes": 0.125,
+            "avg_comments": 0.375
+        },
+        "MIT 6.832 Underactuated Robotics, Spring 2009": {
+            "avg_views": 10448.95652173913,
+            "avg_likes": 58.17391304347826,
+            "avg_dislikes": 0.6956521739130435,
+            "avg_comments": 3.217391304347826
+        },
+        "MIT 21M.380 Music and Technology, Fall 2009": {
+            "avg_views": 12564.5,
+            "avg_likes": 54.75,
+            "avg_dislikes": 1.25,
+            "avg_comments": 5.25
+        },
+        "Highlights of Calculus": {
+            "avg_views": 194508.16666666666,
+            "avg_likes": 2032.9444444444443,
+            "avg_dislikes": 34.333333333333336,
+            "avg_comments": 138.88888888888889
+        },
+        "MIT Understanding Lasers and Fiberoptics": {
+            "avg_views": 88115.0,
+            "avg_likes": 759.2,
+            "avg_dislikes": 16.0,
+            "avg_comments": 35.6
+        },
+        "MIT Digital Lab Techniques Manual": {
+            "avg_views": 62331.117647058825,
+            "avg_likes": 269.52941176470586,
+            "avg_dislikes": 13.294117647058824,
+            "avg_comments": 14.117647058823529
+        },
+        "MIT 21M.303 Writing in Tonal Forms I, Spring 2009": {
+            "avg_views": 1320.8333333333333,
+            "avg_likes": 4.333333333333333,
+            "avg_dislikes": 0.0,
+            "avg_comments": 0.3333333333333333
+        },
+        "MIT 5.95J Teaching College-Level Science and Engineering": {
+            "avg_views": 8338.636363636364,
+            "avg_likes": 37.18181818181818,
+            "avg_dislikes": 1.7272727272727273,
+            "avg_comments": 2.3636363636363638
+        },
+        "MIT 21M.342 Composing for Jazz Orchestra, Fall 2008": {
+            "avg_views": 5264.2,
+            "avg_likes": 18.0,
+            "avg_dislikes": 1.0,
+            "avg_comments": 1.2
+        },
+        "MIT 2.830J, Control of Manufacturing Processes S08": {
+            "avg_views": 7608.090909090909,
+            "avg_likes": 29.181818181818183,
+            "avg_dislikes": 1.5909090909090908,
+            "avg_comments": 1.5
+        },
+        "MIT 4.696 A Global History of Architecture Writing, S08": {
+            "avg_views": 3502.3333333333335,
+            "avg_likes": 9.5,
+            "avg_dislikes": 1.5,
+            "avg_comments": 0.5
+        },
+        "MIT 5.80 Small-Molecule Spectroscopy and Dynamics, Fall 2008": {
+            "avg_views": 2261.6052631578946,
+            "avg_likes": 6.078947368421052,
+            "avg_dislikes": 0.5,
+            "avg_comments": 0.6052631578947368
+        },
+        "MIT 6.00 Intro to Computer Science & Programming, Fall 2008": {
+            "avg_views": 384291.5416666667,
+            "avg_likes": 2642.125,
+            "avg_dislikes": 51.375,
+            "avg_comments": 219.625
+        },
+        "MIT 16.660 Introduction to Lean Six Sigma Methods, IAP 2008": {
+            "avg_views": 42484.5,
+            "avg_likes": 155.92857142857142,
+            "avg_dislikes": 6.785714285714286,
+            "avg_comments": 5.0
+        },
+        "MIT 5.111 Principles of Chemical Science, Fall 2008": {
+            "avg_views": 71633.02777777778,
+            "avg_likes": 357.55555555555554,
+            "avg_dislikes": 13.027777777777779,
+            "avg_comments": 33.80555555555556
+        },
+        "MIT 6.450 Principles of Digital Communications, I Fall 2006": {
+            "avg_views": 30401.666666666668,
+            "avg_likes": 102.08333333333333,
+            "avg_dislikes": 4.0,
+            "avg_comments": 6.291666666666667
+        },
+        "MIT 6.001 Structure and Interpretation, 1986": {
+            "avg_views": 42204.225,
+            "avg_likes": 252.4,
+            "avg_dislikes": 4.725,
+            "avg_comments": 32.45
+        },
+        "MIT 6.189 Multicore Programming Primer, January (IAP) 2007": {
+            "avg_views": 7807.387096774193,
+            "avg_likes": 23.225806451612904,
+            "avg_dislikes": 0.9354838709677419,
+            "avg_comments": 2.193548387096774
+        },
+        "MIT 18.085 Computational Science & Engineering I, Fall 2008": {
+            "avg_views": 30703.92,
+            "avg_likes": 127.56,
+            "avg_dislikes": 2.66,
+            "avg_comments": 11.26
+        },
+        "MIT 18.02 Multivariable Calculus, Fall 2007": {
+            "avg_views": 177010.2857142857,
+            "avg_likes": 893.5428571428571,
+            "avg_dislikes": 17.65714285714286,
+            "avg_comments": 95.68571428571428
+        },
+        "MIT 18.01 Single Variable Calculus, Fall 2006": {
+            "avg_views": 181582.77142857143,
+            "avg_likes": 941.2,
+            "avg_dislikes": 19.97142857142857,
+            "avg_comments": 120.74285714285715
+        },
+        "MIT 5.60 Thermodynamics & Kinetics, Spring 2008": {
+            "avg_views": 99326.13888888889,
+            "avg_likes": 438.3611111111111,
+            "avg_dislikes": 14.166666666666666,
+            "avg_comments": 42.888888888888886
+        },
+        "MIT 6.046J / 18.410J Introduction to Algorithms (SMA 5503),": {
+            "avg_views": 140192.47826086957,
+            "avg_likes": 470.95652173913044,
+            "avg_dislikes": 14.173913043478262,
+            "avg_comments": 50.65217391304348
+        },
+        "MIT 11.309J Sensing Place: Photography as Inquiry": {
+            "avg_views": 6526.125,
+            "avg_likes": 16.25,
+            "avg_dislikes": 1.375,
+            "avg_comments": 1.0
+        },
+        "MIT: Joint Fact Finding in Science Intensive Policy Disputes": {
+            "avg_views": 2579.0,
+            "avg_likes": 7.5,
+            "avg_dislikes": 0.5,
+            "avg_comments": 0.0
+        },
+        "MIT 11.945 Springfield Studio, Fall 2005": {
+            "avg_views": 1760.75,
+            "avg_likes": 2.5,
+            "avg_dislikes": 1.0,
+            "avg_comments": 0.0
+        },
+        "MIT STS.069 Technology in a Dangerous World, Fall 2002": {
+            "avg_views": 4307.75,
+            "avg_likes": 8.75,
+            "avg_dislikes": 2.5,
+            "avg_comments": 1.5
+        },
+        "MIT Exploring Black Holes: General Relativity & Astrophysics": {
+            "avg_views": 66088.66666666667,
+            "avg_likes": 400.8333333333333,
+            "avg_dislikes": 13.5,
+            "avg_comments": 70.16666666666667
+        },
+        "MIT 18.085 Computational Science & Engineering I, Fall 2007": {
+            "avg_views": 15554.90625,
+            "avg_likes": 32.96875,
+            "avg_dislikes": 1.125,
+            "avg_comments": 2.875
+        },
+        "MIT 18.086 Mathematical Methods for Engineers II, Spring '06": {
+            "avg_views": 23681.41379310345,
+            "avg_likes": 57.206896551724135,
+            "avg_dislikes": 2.0689655172413794,
+            "avg_comments": 4.517241379310345
+        },
+        "MIT 11.954 Community-Owned Enterprise & Civic Participation": {
+            "avg_views": 1656.0,
+            "avg_likes": 4.25,
+            "avg_dislikes": 0.25,
+            "avg_comments": 0.25
+        },
+        "MIT 11.949 City Visions: Past and Future, Spring 2004": {
+            "avg_views": 2867.0,
+            "avg_likes": 6.0,
+            "avg_dislikes": 0.25,
+            "avg_comments": 0.75
+        },
+        "MIT 11.969 Deliberative Democracy and Dispute Resolution": {
+            "avg_views": 2519.0,
+            "avg_likes": 4.8,
+            "avg_dislikes": 0.4,
+            "avg_comments": 0.2
+        },
+        "MIT 3.60 Symmetry, Structure & Tensor Properties of Material": {
+            "avg_views": 10167.512195121952,
+            "avg_likes": 31.463414634146343,
+            "avg_dislikes": 0.7804878048780488,
+            "avg_comments": 3.4390243902439024
+        },
+        "MIT 3.320 Atomistic Computer Modeling of Materials": {
+            "avg_views": 7212.263157894737,
+            "avg_likes": 22.63157894736842,
+            "avg_dislikes": 1.0526315789473684,
+            "avg_comments": 1.8421052631578947
+        },
+        "MIT 3.091 Introduction to Solid State Chemistry, Fall 2004": {
+            "avg_views": 53638.970588235294,
+            "avg_likes": 126.91176470588235,
+            "avg_dislikes": 6.176470588235294,
+            "avg_comments": 25.176470588235293
+        },
+        "MIT 24.261 Philosophy of Love in the Western World": {
+            "avg_views": 25240.5,
+            "avg_likes": 90.0,
+            "avg_dislikes": 7.75,
+            "avg_comments": 14.5
+        },
+        "MIT ESD.290 Special Topics in Supply Chain Management": {
+            "avg_views": 12411.75,
+            "avg_likes": 17.3125,
+            "avg_dislikes": 1.625,
+            "avg_comments": 1.6875
+        },
+        "MIT 21F.223/21F.224 Listening, Speaking, and Pronunciation": {
+            "avg_views": 254899.75,
+            "avg_likes": 491.25,
+            "avg_dislikes": 25.75,
+            "avg_comments": 38.5
+        },
+        "MIT 6.033 Computer System Engineering, Spring 2005": {
+            "avg_views": 20993.636363636364,
+            "avg_likes": 33.81818181818182,
+            "avg_dislikes": 2.590909090909091,
+            "avg_comments": 5.136363636363637
+        },
+        "MIT 6.013 Electromagnetics and Applications, Fall 2005": {
+            "avg_views": 8734.291666666666,
+            "avg_likes": 15.958333333333334,
+            "avg_dislikes": 0.5833333333333334,
+            "avg_comments": 1.375
+        },
+        "MIT 5.74 Introductory Quantum Mechanics II, Spring 2004": {
+            "avg_views": 48525.75,
+            "avg_likes": 30.5,
+            "avg_dislikes": 33.75,
+            "avg_comments": 13.0
+        },
+        "MIT 4.367 Studio Seminar in Public Art, Spring 2006": {
+            "avg_views": 1411.3333333333333,
+            "avg_likes": 5.333333333333333,
+            "avg_dislikes": 1.3333333333333333,
+            "avg_comments": 0.3333333333333333
+        },
+        "My Top Videos": {
+            "avg_views": 244473.77777777778,
+            "avg_likes": 1029.111111111111,
+            "avg_dislikes": 40.666666666666664,
+            "avg_comments": 134.11111111111111
+        },
+        "MIT 4.370 Interrogative Design Workshop, Fall 2005": {
+            "avg_views": 4725.75,
+            "avg_likes": 12.5,
+            "avg_dislikes": 1.75,
+            "avg_comments": 0.5
+        },
+        "MIT 7.013 Introductory Biology, Spring 2006": {
+            "avg_views": 10236.25,
+            "avg_likes": 26.5,
+            "avg_dislikes": 2.5,
+            "avg_comments": 2.25
+        },
+        "MIT 24.264 Film as Visual and Literary Mythmaking, Fall 2005": {
+            "avg_views": 9527.5,
+            "avg_likes": 34.0,
+            "avg_dislikes": 1.0,
+            "avg_comments": 2.5
+        },
+        "MIT 24.209 Philosophy In Film and Other Media, Spring 2004": {
+            "avg_views": 20133.0,
+            "avg_likes": 70.5,
+            "avg_dislikes": 4.75,
+            "avg_comments": 8.0
+        },
+        "MIT 24.213 Philosophy of Film, Fall 2004": {
+            "avg_views": 11758.25,
+            "avg_likes": 58.75,
+            "avg_dislikes": 2.5,
+            "avg_comments": 5.0
+        },
+        "MIT 6.912 Introduction to Copyright Law, January 2006": {
+            "avg_views": 22253.25,
+            "avg_likes": 92.0,
+            "avg_dislikes": 9.25,
+            "avg_comments": 14.5
+        },
+        "MIT 21H.931 Seminar in Historical Methods, Spring 2004": {
+            "avg_views": 10286.0,
+            "avg_likes": 41.5,
+            "avg_dislikes": 3.0,
+            "avg_comments": 6.5
+        },
+        "MIT 6.451 Principles of Digital Communication II": {
+            "avg_views": 11845.48,
+            "avg_likes": 12.92,
+            "avg_dislikes": 2.12,
+            "avg_comments": 2.08
+        },
+        "MIT 6.035 Computer Language Engineering, Fall 2005": {
+            "avg_views": 22521.0,
+            "avg_likes": 34.625,
+            "avg_dislikes": 3.625,
+            "avg_comments": 6.75
+        },
+        "MIT 5.301 Chemistry Laboratory Techniques": {
+            "avg_views": 140363.2,
+            "avg_likes": 351.0,
+            "avg_dislikes": 16.4,
+            "avg_comments": 25.8
+        },
+        "MIT CMS.930 Media, Education, and the Marketplace": {
+            "avg_views": 4668.5,
+            "avg_likes": 13.0,
+            "avg_dislikes": 0.9285714285714286,
+            "avg_comments": 1.2857142857142858
+        },
+        "MIT 5.112 Principles of Chemical Science, Fall 2005": {
+            "avg_views": 21701.085714285713,
+            "avg_likes": 36.885714285714286,
+            "avg_dislikes": 2.2857142857142856,
+            "avg_comments": 7.085714285714285
+        },
+        "MIT 7.014 Introductory Biology, Spring 2005": {
+            "avg_views": 25528.970588235294,
+            "avg_likes": 57.0,
+            "avg_dislikes": 4.970588235294118,
+            "avg_comments": 9.294117647058824
+        },
+        "MIT 20.010J Introduction to Bioengineering, Spring 2006": {
+            "avg_views": 11789.5625,
+            "avg_likes": 46.125,
+            "avg_dislikes": 1.9375,
+            "avg_comments": 3.8125
+        },
+        "MIT 4.125 Architecture Studio: Building in Landscapes": {
+            "avg_views": 9404.583333333334,
+            "avg_likes": 20.75,
+            "avg_dislikes": 1.5833333333333333,
+            "avg_comments": 1.75
+        },
+        "MIT 16.01 Unified Engineering, Fall 2005": {
+            "avg_views": 4608.125,
+            "avg_likes": 10.791666666666666,
+            "avg_dislikes": 0.8333333333333334,
+            "avg_comments": 1.5416666666666667
+        },
+        "MIT 16.885J Aircraft Systems Engineering, Fall 2005": {
+            "avg_views": 29363.130434782608,
+            "avg_likes": 82.17391304347827,
+            "avg_dislikes": 4.739130434782608,
+            "avg_comments": 15.347826086956522
+        },
+        "MIT 5.111 Principles of Chemical Science, Fall 2005": {
+            "avg_views": 20886.333333333332,
+            "avg_likes": 33.77777777777778,
+            "avg_dislikes": 3.5833333333333335,
+            "avg_comments": 8.722222222222221
+        },
+        "MIT 7.012 Introduction to Biology, Fall 2004": {
+            "avg_views": 28503.823529411766,
+            "avg_likes": 92.41176470588235,
+            "avg_dislikes": 3.3823529411764706,
+            "avg_comments": 11.176470588235293
+        },
+        "MIT 18.03 Differential Equations,  Spring 2006": {
+            "avg_views": 146640.15151515152,
+            "avg_likes": 612.6666666666666,
+            "avg_dislikes": 15.181818181818182,
+            "avg_comments": 77.24242424242425
+        },
+        "MIT 6.002 Circuits and Electronics, Spring 2007": {
+            "avg_views": 122468.96153846153,
+            "avg_likes": 461.96153846153845,
+            "avg_dislikes": 11.5,
+            "avg_comments": 49.80769230769231
+        },
+        "MIT 18.06 Linear Algebra, Spring 2005": {
+            "avg_views": 303443.80555555556,
+            "avg_likes": 2165.9166666666665,
+            "avg_dislikes": 31.11111111111111,
+            "avg_comments": 188.22222222222223
+        },
+        "MIT OpenCourseWare Milestone Celebration": {
+            "avg_views": 29154.4,
+            "avg_likes": 80.4,
+            "avg_dislikes": 10.2,
+            "avg_comments": 10.4
+        }
+    }
+}
