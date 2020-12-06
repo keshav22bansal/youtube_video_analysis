@@ -23,8 +23,7 @@ source activate env
 #### Install the project dependencies:
 ```
 pip3 install -r requirements.txt
-
-
+```
 
 
 Commands:
