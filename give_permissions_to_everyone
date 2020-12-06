@@ -1,5 +1,0 @@
-setfacl -R -m u:umangmal:rwx .
-setfacl -R -m u:keshavb:rwx .
-setfacl -R -m u:ayushk:rwx .
-setfacl -R -m u:snehal:rwx .
-setfacl -R -m u:harsh:rwx .
